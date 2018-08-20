@@ -61,6 +61,15 @@ If you are interested in proposing a new testbed, you can send an email to iot@e
     </item>
     
     <item>
+      <title>KubeCon &#43; CloudNativeCon China</title>
+      <link>https://iot.eclipse.org/events/2018-11-13-kubeconchina/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/events/2018-11-13-kubeconchina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>All Things IoT @ EclipseCon Europe</title>
       <link>https://iot.eclipse.org/events/2018-10-22-iot-ece-2018/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
@@ -70,11 +79,119 @@ If you are interested in proposing a new testbed, you can send an email to iot@e
     </item>
     
     <item>
+      <title>Eclipse IoT Day Singapore 2018</title>
+      <link>https://iot.eclipse.org/events/2018-09-18-iot-day-asia-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/events/2018-09-18-iot-day-asia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT World Asia 2018</title>
+      <link>https://iot.eclipse.org/events/2018-09-18-iot-world-asia-2018/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/events/2018-09-18-iot-world-asia-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignition Community Conference 2018</title>
+      <link>https://iot.eclipse.org/events/2018-09-17-ignition-2018/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/events/2018-09-17-ignition-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eclipse VOLTTRON Days</title>
+      <link>https://iot.eclipse.org/events/2018-08-21-volttron-days/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/events/2018-08-21-volttron-days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IIoT series: Get started with simulation, analytics &amp; modeling</title>
+      <link>https://iot.eclipse.org/news/2018-07-31-iiot-webcast/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-31-iiot-webcast/</guid>
+      <description>On August 23, Benjamin Cabé will be speaking at the IIoT webcast series. Don&amp;rsquo;t miss it! It starts at 11 AM PT.</description>
+    </item>
+    
+    <item>
+      <title>Create an IoT Gateway Using Eclipse Kura and Orange Pi Board</title>
+      <link>https://iot.eclipse.org/news/2018-07-27-iot-gateway-kura-orangepi/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-27-iot-gateway-kura-orangepi/</guid>
+      <description>This project guides you through the process of creating an IoT gateway using Eclipse Kura project and Orange Pi boards.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Eclipse IoT Day Singapore</title>
+      <link>https://iot.eclipse.org/news/2018-07-24-iot-day-singapore/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-24-iot-day-singapore/</guid>
+      <description>We will be hosting our very first Eclipse IoT Day Singapore on September 18 in co-location with IoT World Asia 2018. Propose a talk now or plan to attend!</description>
+    </item>
+    
+    <item>
+      <title>Calypso Networks Association</title>
+      <link>https://iot.eclipse.org/member/calypso/</link>
+      <pubDate>Wed, 11 Jul 2018 15:31:15 -0700</pubDate>
+      
+      <guid>https://iot.eclipse.org/member/calypso/</guid>
+      <description>Calypso technology has been designed to ensure interoperability between transportation networks equipments and is open to all manufacturers providers. It has been deployed for 20 years in 25 countries without any hacking reported since now and work with any kind of NFC portable objects: Smart Cards, Secures elements, Sim cards or HCE in Smart Phones. CNA is established in Brussels and has been founded in 2003, with the founder members of the european Calypso project : OTLIS, Ticketing operator of Lisbon ACTV, Transport operator of Venice STIB, Transport operator of Brussels LKRKN, Landrat of Constance RATP, Transport operator of Paris area SNCF, French national trainrail CNA is open to all actors playing a role in the Calypso environment, whether they are user of Calypso or a provider of Calypso.</description>
+    </item>
+    
+    <item>
+      <title>IoT Talk Recordings from EclipseCon France 2018</title>
+      <link>https://iot.eclipse.org/news/2018-07-05-ecf-iot-talk-recordings/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-05-ecf-iot-talk-recordings/</guid>
+      <description>The recordings from EclipseCon France 2018 (Jun 12-13) are now available. Follow the link above to watch the IoT talk recordings!</description>
+    </item>
+    
+    <item>
+      <title>All Things IoT @ EclipseCon Europe | Call for Papers</title>
+      <link>https://iot.eclipse.org/news/2018-06-29-allthingsiot-cfp/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-06-29-allthingsiot-cfp/</guid>
+      <description>It&amp;rsquo;s time to submit your talk for the annual Eclipse IoT Day, taking place on October 23, at EclipseCon Europe 2018. The deadline for submissions is July 16.</description>
+    </item>
+    
+    <item>
+      <title>BREDEX GmbH</title>
+      <link>https://iot.eclipse.org/member/bredex/</link>
+      <pubDate>Thu, 28 Jun 2018 15:31:15 -0700</pubDate>
+      
+      <guid>https://iot.eclipse.org/member/bredex/</guid>
+      <description>BREDEX has been developing individual software solutions for companies from a wide variety of industries since 1987. As a regionally rooted but globally operating company, we not only inspire our customers with our solution-oriented and agile approach, but above all with our broad-based expertise. We see our customers as partners, which helps us to understand and fulfill their needs and requirements. Our Training offer includes &amp;lsquo;the advanced training for Certified Professional for IoT (CPIoT)&amp;rsquo; which prepares for all technical and organizational tasks that may become relevant in IoT projects.</description>
+    </item>
+    
+    <item>
       <title>EclipseCon France 2018</title>
       <link>https://iot.eclipse.org/events/2018-06-13-ecf-2018/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://iot.eclipse.org/events/2018-06-13-ecf-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do We Finally Have an Open and Realistic IoT Model?</title>
+      <link>https://iot.eclipse.org/news/2018-06-06-open-and-realistic-iot-model/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-06-06-open-and-realistic-iot-model/</guid>
       <description></description>
     </item>
     
@@ -1189,11 +1306,11 @@ We are singularly focused on reducing the Time to Awesome ™, we truly care abo
     
     <item>
       <title>Open Source Software for Industry 4.0</title>
-      <link>https://iot.eclipse.org/white-papers/2017-10-19-industry40/</link>
+      <link>https://iot.eclipse.org/white-papers/industry40/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://iot.eclipse.org/white-papers/2017-10-19-industry40/</guid>
-      <description>The purpose of this white paper is to identify the types of software required to implement an Industry 4.0 solution. Software is a key enabling technology for any IoT solution, including IoT in manufacturing. This white paper investigates how software solutions can be used to integrate existing operational technologies on a factory floor with the existing enterprise applications, like PLM and ERP solutions.</description>
+      <guid>https://iot.eclipse.org/white-papers/industry40/</guid>
+      <description>Introduction  The Internet of Things (IoT) represents a significant change and opportunity for the manufacturing industry. Technological advancements in connectivity and communication technology, real-time data analysis, and complex event processing have opened the possibility of integrating the traditional operational technology (OT) of a manufacturing plant with the enterprise information technology (IT) systems. This alignment of OT and IT in the manufacturing industry presents a huge opportunity for a more efficient manufacturing process, including tighter integration of the supply chain, preventive maintenance of the factory floor, and more flexibility to react to changing customer demands.</description>
     </item>
     
     <item>
@@ -1939,11 +2056,11 @@ EclipseSource is focused on Business Applications, Mobile Applications, Modeling
     
     <item>
       <title>The Three Software Stacks Required for IoT Architectures</title>
-      <link>https://iot.eclipse.org/white-papers/2016-10-01-iot-architectures/</link>
+      <link>https://iot.eclipse.org/white-papers/iot-architectures/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://iot.eclipse.org/white-papers/2016-10-01-iot-architectures/</guid>
-      <description>In this white paper we look at the new technology requirements and architectures required for IoT solutions. It identifies three stacks of software required by any IoT solution and presents how open source communities, such as the Eclipse IoT community, are already supplying the critical software technology needed by IoT solution providers.</description>
+      <guid>https://iot.eclipse.org/white-papers/iot-architectures/</guid>
+      <description>Introduction  The Internet of Things (IoT) is transforming how individuals and organizations connect with customers, suppliers, partners, and other individuals. IoT is all about connecting sensors, actuators, and devices to a network and enabling the collection, exchange, and analysis of generated information. Hardware innovations, like the Raspberry Pi, are making it easier, faster and cheaper to develop new devices. Networking standards for low power networks, like LoRaWAN or NB-IOT, create new opportunities for connecting very small devices to a network.</description>
     </item>
     
     <item>

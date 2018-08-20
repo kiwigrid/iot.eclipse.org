@@ -6,10 +6,64 @@
     <description>Recent content in News on Eclipse IoT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IIoT series: Get started with simulation, analytics &amp; modeling</title>
+      <link>https://iot.eclipse.org/news/2018-07-31-iiot-webcast/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-31-iiot-webcast/</guid>
+      <description>On August 23, Benjamin Cabé will be speaking at the IIoT webcast series. Don&amp;rsquo;t miss it! It starts at 11 AM PT.</description>
+    </item>
+    
+    <item>
+      <title>Create an IoT Gateway Using Eclipse Kura and Orange Pi Board</title>
+      <link>https://iot.eclipse.org/news/2018-07-27-iot-gateway-kura-orangepi/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-27-iot-gateway-kura-orangepi/</guid>
+      <description>This project guides you through the process of creating an IoT gateway using Eclipse Kura project and Orange Pi boards.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Eclipse IoT Day Singapore</title>
+      <link>https://iot.eclipse.org/news/2018-07-24-iot-day-singapore/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-24-iot-day-singapore/</guid>
+      <description>We will be hosting our very first Eclipse IoT Day Singapore on September 18 in co-location with IoT World Asia 2018. Propose a talk now or plan to attend!</description>
+    </item>
+    
+    <item>
+      <title>IoT Talk Recordings from EclipseCon France 2018</title>
+      <link>https://iot.eclipse.org/news/2018-07-05-ecf-iot-talk-recordings/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-07-05-ecf-iot-talk-recordings/</guid>
+      <description>The recordings from EclipseCon France 2018 (Jun 12-13) are now available. Follow the link above to watch the IoT talk recordings!</description>
+    </item>
+    
+    <item>
+      <title>All Things IoT @ EclipseCon Europe | Call for Papers</title>
+      <link>https://iot.eclipse.org/news/2018-06-29-allthingsiot-cfp/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-06-29-allthingsiot-cfp/</guid>
+      <description>It&amp;rsquo;s time to submit your talk for the annual Eclipse IoT Day, taking place on October 23, at EclipseCon Europe 2018. The deadline for submissions is July 16.</description>
+    </item>
+    
+    <item>
+      <title>Do We Finally Have an Open and Realistic IoT Model?</title>
+      <link>https://iot.eclipse.org/news/2018-06-06-open-and-realistic-iot-model/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iot.eclipse.org/news/2018-06-06-open-and-realistic-iot-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eclipse IoT Day Santa Clara | Recorded Talks Available</title>
