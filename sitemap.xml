@@ -1872,6 +1872,18 @@
   </url>
   
   <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-san-jose/dummy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-santa-clara-2018/dummy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-singapore-2018/dummy/</loc>
+  </url>
+  
+  <url>
     <loc>https://iot.eclipse.org/gateways/dummy/</loc>
   </url>
   
@@ -1966,6 +1978,21 @@
   <url>
     <loc>https://iot.eclipse.org/tags/eclipse-vorto/</loc>
     <lastmod>2017-06-28T15:34:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-san-jose/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-santa-clara-2018/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iot.eclipse.org/eclipse-iot-day-singapore-2018/</loc>
     <priority>0</priority>
   </url>
   
