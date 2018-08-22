@@ -1,35 +1,39 @@
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>iot.eclipse.org &mdash; Testbeds / Production Performance Management</title>
-  <meta name="description" content="Eclipse IoT hosts open testbeds that demonstrate and test commercial and open source components needed to create specific industry solutions.">
-  <meta name="author" content="Eclipse.org">
-  <link rel="author" href="humans.txt" />
   
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-  
-  
-  
-  <link href="/assets/css/bootstrap.css" rel="stylesheet">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Production Performance Management | IoT development made simple - iot.eclipse.org</title>
+<meta property="og:title" content="Production Performance Management | IoT development made simple - iot.eclipse.org" />
+<meta name="twitter:title" content="Production Performance Management | IoT development made simple - iot.eclipse.org" />
+<meta name="description" content="&lt;p&gt;The &lt;strong&gt;Production Performance Management&lt;/strong&gt; demonstrates how to continuously monitor the performance of heterogeneous industrial equipment on a shop floor.&lt;/p&gt;
+">
+<meta property="og:description" content="&lt;p&gt;The &lt;strong&gt;Production Performance Management&lt;/strong&gt; demonstrates how to continuously monitor the performance of heterogeneous industrial equipment on a shop floor.&lt;/p&gt;
+">
+<meta name="twitter:description" content="&lt;p&gt;The &lt;strong&gt;Production Performance Management&lt;/strong&gt; demonstrates how to continuously monitor the performance of heterogeneous industrial equipment on a shop floor.&lt;/p&gt;
+">
+<meta name="author" content="Eclipse Foundation"/>
+<link href='https://iot.eclipse.org/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta property="og:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@EclipseIoT" />
+<meta name="twitter:creator" content="@EclipseIoT" />
+<meta property="og:url" content="https://iot.eclipse.org/testbeds/production-performance-management/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Eclipse IoT" />
+<meta name="keywords" content="">
+
+
+<meta name="generator" content="Hugo 0.46" />
+<link rel="canonical" href="https://iot.eclipse.org/testbeds/production-performance-management/" />
+<link rel="alternate" href="https://iot.eclipse.org/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
+<link rel="stylesheet" href="https://iot.eclipse.org/assets/css/bootstrap.css">
   
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -38,33 +42,47 @@
   })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
   
   
-  
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  
-  
-  <link rel="stylesheet" type="text/css" href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
-  <script src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js"></script>
 
-  
-  <link href="/assets/css/icomoon.css" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="author" href="/humans.txt" />
 
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff"> 
+
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700" rel="stylesheet" type="text/css"/>
+  
 </head>
-
 <body>
-  <header>
-    <nav class="navbar navbar-default">
+  
+<a class="sr-only" href="#content">Skip to main content</a>
+<header class="header-wrapper" id="header-wrapper">
+  
+<nav class="navbar navbar-default">
   <div class="container">
     
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/">
-        <img alt="Eclipse IoT" src="/assets/images/iot-logo.png">
+      <img alt="Eclipse IoT" src="/assets/images/iot-logo.png">
       </a>
     </div>
     
@@ -77,12 +95,11 @@
             <li><a href="/getting-started#sandboxes">Sandboxes</a></li>
           </ul>
         </li>
-
         <li>
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology</a>
           <ul class="dropdown-menu" role="menu">
-
-
+            
+            
             <li><a href="/devices">Constrained Devices</a></li>
             <li><a href="/gateways">Gateways &amp; Smart Devices</a></li>
             <li><a href="/cloud">IoT Cloud Platforms</a></li>
@@ -94,17 +111,16 @@
             </li>
           </ul>
         </li>
-
         <li>
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
           <ul class="dropdown-menu" role="menu">
-              <li><a href="/white-papers">White Papers</a></li>
-              <li><a href="/case-studies">Case Studies</a></li>
-              <li><a href="/resources">Articles &amp; Videos</a></li>
+            <li><a href="/white-papers">White Papers</a></li>
+            <li><a href="/case-studies">Case Studies</a></li>
+            <li><a href="/resources">Articles &amp; Videos</a></li>
           </ul>
         </li>
-
-        <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
           <ul class="dropdown-menu" role="menu">
             <li>
               <a href="/news">News</a>
@@ -122,10 +138,10 @@
         </li>
         <li><a href="/working-group">About us</a>
         </li>
-
+        
         <li style="min-width: 100px; padding-top: 12px; padding-left: 15px; margin-left:-35px">
-            <a href="https://twitter.com/eclipseiot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <a href="https://twitter.com/eclipseiot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </li>
       </ul>
     </div>
@@ -133,72 +149,65 @@
   </div>
   
 </nav>
+  
 
-  </header>
-  <main class="main testbeds-single-page">
-    <div class="well" style="background-image: url(/assets/images/testbeds/production-performance-management-banner.jpg); background-blend-mode: soft-light; background-size: cover;">
-      <div class="container xpurple">
-        <h2><a href="/testbeds" style="color: white; ">Eclipse Open IoT Testbeds</a><h2>
-        <h1>» Production Performance Management</h1>
-         <p class="lead">
-                <p>The <strong>Production Performance Management</strong> demonstrates how to continuously monitor the performance of heterogeneous industrial equipment on a shop floor.</p>
-
-        </p> 
-      </div>
-    </div>
-
-
+</header>
 
   
-    <section class="row-fluid" style="padding-bottom: 0px;">
-      <div class="container">
+  
+<main class="main testbeds-single-page">
+  <div class="well" style="background-image: url(/assets/images/testbeds/production-performance-management-banner.jpg); background-blend-mode: soft-light; background-size: cover;">
+    <div class="container xpurple">
+      <h2>
+      <a href="/testbeds" style="color: white; ">Eclipse Open IoT Testbeds</a>
+      <h2>
+      <h1>» Production Performance Management</h1>
+      <p class="lead">
+        <p>The <strong>Production Performance Management</strong> demonstrates how to continuously monitor the performance of heterogeneous industrial equipment on a shop floor.</p>
 
-        <div class="row">
-
-          
-            <div class="jumbotron col-md-12" style="margin-top: 40px; margin-bottom: 0px; padding-top: 30px; padding-bottom: 10px;">
-              <div class="row">
-                <div class="col-md-8">
-                  <p><p>A key challenge of the manufacturing industry is to improve capacity, quality and flexibility, while lowering costs.</p>
+      </p>
+    </div>
+  </div>
+  
+  <section class="row-fluid" style="padding-bottom: 0px;">
+    <div class="container">
+      <div class="row">
+        
+        <div class="jumbotron col-md-12" style="margin-top: 40px; margin-bottom: 0px; padding-top: 30px; padding-bottom: 10px;">
+          <div class="row">
+            <div class="col-md-8">
+              <p><p>A key challenge of the manufacturing industry is to improve capacity, quality and flexibility, while lowering costs.</p>
 <p>The Eclipse IoT Open Testbed for Production Performance Management demonstrates how to gather performance data from heterogeneous industrial assets, and how to analyze it in backend systems.</p>
 </p>
-                </div>
-                <div class="col-md-4 text-center">
-                  <a href="http://unide.eclipse.org:8081/dashboard/snapshot/VP1fKWuQmgeD9wuJMsMSOaOmqeO8mNus" target="_blank">
-
-
-                    
-                    
-                    
-                    
-                    <img src="/assets/images/testbeds/production-performance-management-demo.webp" class="img-responsive">
-                    
-
-
-                  </a>
-                  <p><a class="btn btn-primary btn-lg" href="http://unide.eclipse.org:8081/dashboard/snapshot/VP1fKWuQmgeD9wuJMsMSOaOmqeO8mNus" target="_blank" role="button" style="margin-top: .5em;">Demo</a>
-                  &nbsp;
-                  <a class="btn btn-primary btn-lg" href="https://github.com/eclipselabs/eclipseiot-testbed-productionperformancemanagement" target="_blank" role="button" style="margin-top: .5em;">Source Code</a></p>
-                </div>
-              </div>
             </div>
-          
-
+            <div class="col-md-4 text-center">
+              <a href="http://unide.eclipse.org:8081/dashboard/snapshot/VP1fKWuQmgeD9wuJMsMSOaOmqeO8mNus" target="_blank">
+              
+              
+              
+              
+              <img src="/assets/images/testbeds/production-performance-management-demo.webp" class="img-responsive">
+              
+              </a>
+              <p><a class="btn btn-primary btn-lg" href="http://unide.eclipse.org:8081/dashboard/snapshot/VP1fKWuQmgeD9wuJMsMSOaOmqeO8mNus" target="_blank" role="button" style="margin-top: .5em;">Demo</a>
+                &nbsp;
+                <a class="btn btn-primary btn-lg" href="https://github.com/eclipselabs/eclipseiot-testbed-productionperformancemanagement" target="_blank" role="button" style="margin-top: .5em;">Source Code</a>
+              </p>
+            </div>
+          </div>
         </div>
+        
       </div>
-    </section>
+    </div>
+  </section>
   
-
-    <section class="second row-fluid" style="padding-bottom: 70px;">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-12">
-
-            
-            <h1 class="purple">The Challenge</h1>
-
-            <p><p>
+  <section class="second row-fluid" style="padding-bottom: 70px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          
+          <h1 class="purple">The Challenge</h1>
+          <p><p>
     Key challenges for the manufacturing industry are to improve capacity, quality and flexibility, while lowering costs. 
 </p>
 <p>
@@ -213,14 +222,12 @@
 </p>
 </div>
 </p>
-            
-
-            
-            <h1 class="purple">Proposed Solution</h1>
-            
-
-            
-              <p><div class="row">
+          
+          
+          <h1 class="purple">Proposed Solution</h1>
+          
+          
+          <p><div class="row">
     <div class="col-md-12">
         <p>
         At the heart of the testbed is the Production Performance Management Protocol (PPMP), which allows uniform representation of all the data and information related to manufacturing processes. The testbed showcases how performance data from different industrial assets can be connected to the same IoT Cloud backend, so that this data can be further processed, or simply visualized. 
@@ -264,97 +271,92 @@
     </div>
 </div>
 </p>
-            
-
-            
-
-
-            
-            <h1 class="purple">Participating Organizations</h1>
-              
-              <div class="row">
-                <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
-                  <div style="min-height: 120px; line-height: 120px;">
-                    <img src="/assets/images/members/logo-bosch.png" class="img-responsive" alt="logo-bosch" style="max-height:110px; display:inline-block; vertical-align:middle;">
-                  </div>
-                </div>
-                <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
-                  <p class="vcenter">“The Production Performance Management Testbed shows how simple performance monitoring can be quickly implemented using open standards and open source software, like Eclipse Unide. This collaboration shows how different vendors can work together to solve Industry 4.0 solutions.” – Dr. Nils-H. Schmidt, Portfolio Management Industrial IoT</p>
-                </div>
+          
+          
+          
+          <h1 class="purple">Participating Organizations</h1>
+          
+          <div class="row">
+            <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
+              <div style="min-height: 120px; line-height: 120px;">
+                <img src="/assets/images/members/logo-bosch.png" class="img-responsive" alt="logo-bosch" style="max-height:110px; display:inline-block; vertical-align:middle;">
               </div>
-              
-              <div class="row">
-                <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
-                  <div style="min-height: 120px; line-height: 120px;">
-                    <img src="/assets/images/members/logo-contact-software.png" class="img-responsive" alt="logo-contact-software" style="max-height:110px; display:inline-block; vertical-align:middle;">
-                  </div>
-                </div>
-                <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
-                  <p class="vcenter">“CONTACT is committed to the outstanding work of the Eclipse Open Source community. The PPM Open IoT testbed and our implementation of the PPMP protocol are excellent examples, stimulating future editions of CONTACT’s Elements for IoT framework.” — Frank Patz-Brockmann, Director Software-Development</p>
-                </div>
-              </div>
-              
-              <div class="row">
-                <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
-                  <div style="min-height: 120px; line-height: 120px;">
-                    <img src="/assets/images/members/logo-eurotech.png" class="img-responsive" alt="logo-eurotech" style="max-height:110px; display:inline-block; vertical-align:middle;">
-                  </div>
-                </div>
-                <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
-                  <p class="vcenter">“We are excited to support the new Eclipse IoT Open Testbeds for Industry 4.0 with our partners. We continue to believe that testbeds are an important initiative in showcasing how open source components provide solid building blocks to accelerate the development and the deployment of IoT solutions and applications.” – Marco Carrer, CTO</p>
-                </div>
-              </div>
-              
-              <div class="row">
-                <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
-                  <div style="min-height: 120px; line-height: 120px;">
-                    <img src="/assets/images/members/logo-fortiss.png" class="img-responsive" alt="logo-fortiss" style="max-height:110px; display:inline-block; vertical-align:middle;">
-                  </div>
-                </div>
-                <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
-                  <p class="vcenter">“With the Production Performance Management Testbed we can show how production performance data can easily be generated within Eclipse 4diac PLCs programs reducing the effort of integrating monitoring functionalities in PLC programs.” – Dr. Alois Zoitl, Head of Competence Field Industrie 4.0</p>
-                </div>
-              </div>
-              
-              <div class="row">
-                <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
-                  <div style="min-height: 120px; line-height: 120px;">
-                    <img src="/assets/images/members/logo-influxdata.png" class="img-responsive" alt="logo-influxdata" style="max-height:110px; display:inline-block; vertical-align:middle;">
-                  </div>
-                </div>
-                <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
-                  <p class="vcenter">“InfluxData is pleased to be contributing to the Eclipse IoT Working Group’s Open IoT Testbed. As the leader in time-series event monitoring, InfluxData is excited to see the Open IoT Testbed’s continued progress towards IoT monitoring solutions which utilize time series data to increase efficiencies and lower costs.” – David G. Simmons, Senior Developer Evangelist</p>
-                </div>
-              </div>
-              
-            
-
-            <br><br><br>
-
+            </div>
+            <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
+              <p class="vcenter">“The Production Performance Management Testbed shows how simple performance monitoring can be quickly implemented using open standards and open source software, like Eclipse Unide. This collaboration shows how different vendors can work together to solve Industry 4.0 solutions.” – Dr. Nils-H. Schmidt, Portfolio Management Industrial IoT</p>
+            </div>
           </div>
+          
+          <div class="row">
+            <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
+              <div style="min-height: 120px; line-height: 120px;">
+                <img src="/assets/images/members/logo-contact-software.png" class="img-responsive" alt="logo-contact-software" style="max-height:110px; display:inline-block; vertical-align:middle;">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
+              <p class="vcenter">“CONTACT is committed to the outstanding work of the Eclipse Open Source community. The PPM Open IoT testbed and our implementation of the PPMP protocol are excellent examples, stimulating future editions of CONTACT’s Elements for IoT framework.” — Frank Patz-Brockmann, Director Software-Development</p>
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
+              <div style="min-height: 120px; line-height: 120px;">
+                <img src="/assets/images/members/logo-eurotech.png" class="img-responsive" alt="logo-eurotech" style="max-height:110px; display:inline-block; vertical-align:middle;">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
+              <p class="vcenter">“We are excited to support the new Eclipse IoT Open Testbeds for Industry 4.0 with our partners. We continue to believe that testbeds are an important initiative in showcasing how open source components provide solid building blocks to accelerate the development and the deployment of IoT solutions and applications.” – Marco Carrer, CTO</p>
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
+              <div style="min-height: 120px; line-height: 120px;">
+                <img src="/assets/images/members/logo-fortiss.png" class="img-responsive" alt="logo-fortiss" style="max-height:110px; display:inline-block; vertical-align:middle;">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
+              <p class="vcenter">“With the Production Performance Management Testbed we can show how production performance data can easily be generated within Eclipse 4diac PLCs programs reducing the effort of integrating monitoring functionalities in PLC programs.” – Dr. Alois Zoitl, Head of Competence Field Industrie 4.0</p>
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-md-3 col-xs-4" style="padding:2px 30px; ">
+              <div style="min-height: 120px; line-height: 120px;">
+                <img src="/assets/images/members/logo-influxdata.png" class="img-responsive" alt="logo-influxdata" style="max-height:110px; display:inline-block; vertical-align:middle;">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-8" style="min-height: 120px; display: flex; flex-direction: column; justify-content: center;">
+              <p class="vcenter">“InfluxData is pleased to be contributing to the Eclipse IoT Working Group’s Open IoT Testbed. As the leader in time-series event monitoring, InfluxData is excited to see the Open IoT Testbed’s continued progress towards IoT monitoring solutions which utilize time series data to increase efficiencies and lower costs.” – David G. Simmons, Senior Developer Evangelist</p>
+            </div>
+          </div>
+          
+          
+          <br><br><br>
         </div>
       </div>
-    </section>
-
-    <section class="third row-fluid">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12" style="margin-top: -3em;">
-            
-            <h1 class="purple">Learn More</h1>
-
-            <ul>
-            
-              <li><a href="https://www.eclipse.org/unide/specification/" target="_blank">PPMP Specification</a></li>
-            
-            </ul>
-            
-
-          </div>
+    </div>
+  </section>
+  <section class="third row-fluid">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-12" style="margin-top: -3em;">
+        
+        <h1 class="purple">Learn More</h1>
+        <ul>
+          
+          <li><a href="https://www.eclipse.org/unide/specification/" target="_blank">PPMP Specification</a></li>
+          
+        </ul>
+        
       </div>
-    </section>
-  </main>
-  <footer id="solstice-footer">
+    </div>
+  </section>
+</main>
+
+  
+  
+<footer id="solstice-footer">
   <div class="container">
     <div class="row">
       <section class="col-sm-3 hidden-print" id="footer-eclipse-foundation">
@@ -450,15 +452,13 @@
     </div>
   </div>
 </footer>
-  <div id="contact-modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="contact-label" aria-hidden="true" style="display: none;">
-  </div>
-  </div>
-  
-  
-  
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-</body>
 
+
+
+<script src="https://iot.eclipse.org/assets/js/main.js"></script>
+
+
+  
+</body>
 </html>
+

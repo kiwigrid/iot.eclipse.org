@@ -1,36 +1,36 @@
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>iot.eclipse.org &mdash; White Paper: Open Source Software for Industry 4.0</title>
-  <meta name="description" content="The Eclipse IoT White Papers are great resources for anyone looking at understanding how open source helps build scalable IoT solutions.">
-  <meta name="author" content="Eclipse.org">
-  <link rel="author" href="humans.txt" />
   
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-  
-  
-  
-  <link href="/assets/css/bootstrap.css" rel="stylesheet">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
+<title>White paper: Open Source Software for Industry 4.0 | IoT development made simple - iot.eclipse.org</title>
+<meta property="og:title" content="White paper: Open Source Software for Industry 4.0 | IoT development made simple - iot.eclipse.org" />
+<meta name="twitter:title" content="White paper: Open Source Software for Industry 4.0 | IoT development made simple - iot.eclipse.org" />
+<meta name="description" content="The purpose of this white paper is to identify the types of software required to implement an Industry 4.0 solution. Software is a key enabling technology for any IoT solution, including IoT in manufacturing. This white paper investigates how software solutions can be used to integrate existing operational technologies on a factory floor with the existing enterprise applications, like PLM and ERP solutions.">
+<meta property="og:description" content="The purpose of this white paper is to identify the types of software required to implement an Industry 4.0 solution. Software is a key enabling technology for any IoT solution, including IoT in manufacturing. This white paper investigates how software solutions can be used to integrate existing operational technologies on a factory floor with the existing enterprise applications, like PLM and ERP solutions.">
+<meta name="twitter:description" content="The purpose of this white paper is to identify the types of software required to implement an Industry 4.0 solution. Software is a key enabling technology for any IoT solution, including IoT in …">
+<meta name="author" content="Eclipse Foundation"/>
+<link href='https://iot.eclipse.org/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta property="og:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@EclipseIoT" />
+<meta name="twitter:creator" content="@EclipseIoT" />
+<meta property="og:url" content="https://iot.eclipse.org/white-papers/industry40/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Eclipse IoT" />
+<meta name="keywords" content="">
+
+
+<meta name="generator" content="Hugo 0.46" />
+<link rel="canonical" href="https://iot.eclipse.org/white-papers/industry40/" />
+<link rel="alternate" href="https://iot.eclipse.org/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
+<link rel="stylesheet" href="https://iot.eclipse.org/assets/css/bootstrap.css">
   
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -39,26 +39,127 @@
   })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
   
   
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="author" href="/humans.txt" />
+
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff"> 
+
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700" rel="stylesheet" type="text/css"/>
   
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</head>
+<body>
   
+<a class="sr-only" href="#content">Skip to main content</a>
+<header class="header-wrapper" id="header-wrapper">
   
-  <link rel="stylesheet" type="text/css" href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
-  <script src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js"></script>
+<nav class="navbar navbar-default">
+  <div class="container">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">
+      <img alt="Eclipse IoT" src="/assets/images/iot-logo.png">
+      </a>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Getting Started</a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/getting-started#resources">Resources</a></li>
+            <li><a href="/getting-started#sandboxes">Sandboxes</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology</a>
+          <ul class="dropdown-menu" role="menu">
+            
+            
+            <li><a href="/devices">Constrained Devices</a></li>
+            <li><a href="/gateways">Gateways &amp; Smart Devices</a></li>
+            <li><a href="/cloud">IoT Cloud Platforms</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/standards">Open Standards</a></li>
+            
+            <li><a href="/testbeds">Open Testbeds</a></li>
+            <li><a href="/projects">Browse the Projects</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/white-papers">White Papers</a></li>
+            <li><a href="/case-studies">Case Studies</a></li>
+            <li><a href="/resources">Articles &amp; Videos</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="/news">News</a>
+            </li>
+            <li>
+              <a href="/events">Events</a>
+            </li>
+            <li>
+              <a href="/open-iot-challenge">Open IoT Challenge</a>
+            </li>
+            <li>
+              <a href="http://www.meetup.com/Virtual-IoT" target="_blank">Virtual IoT Meetup</a>
+            </li>
+          </ul>
+        </li>
+        <li><a href="/working-group">About us</a>
+        </li>
+        
+        <li style="min-width: 100px; padding-top: 12px; padding-left: 15px; margin-left:-35px">
+          <a href="https://twitter.com/eclipseiot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </li>
+      </ul>
+    </div>
+    
+  </div>
+  
+</nav>
+  
+
+</header>
 
   
-  <link href="/assets/css/icomoon.css" rel="stylesheet">
-
   
   <style>
   
 
 
 p.Body-Text_Body-Text---Justified {
-	text-align:justify;
-	text-align-last:left;
-	widows:2;
+  text-align:justify;
+  text-align-last:left;
+  widows:2;
 }
 
 blockquote {
@@ -97,93 +198,6 @@ h3:before {
 
 
   </style>
-
-</head>
-
-<body>
-  <header>
-    <nav class="navbar navbar-default">
-  <div class="container">
-    
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">
-        <img alt="Eclipse IoT" src="/assets/images/iot-logo.png">
-      </a>
-    </div>
-    
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Getting Started</a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="/getting-started#resources">Resources</a></li>
-            <li><a href="/getting-started#sandboxes">Sandboxes</a></li>
-          </ul>
-        </li>
-
-        <li>
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology</a>
-          <ul class="dropdown-menu" role="menu">
-
-
-            <li><a href="/devices">Constrained Devices</a></li>
-            <li><a href="/gateways">Gateways &amp; Smart Devices</a></li>
-            <li><a href="/cloud">IoT Cloud Platforms</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="/standards">Open Standards</a></li>
-            
-            <li><a href="/testbeds">Open Testbeds</a></li>
-            <li><a href="/projects">Browse the Projects</a>
-            </li>
-          </ul>
-        </li>
-
-        <li>
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
-          <ul class="dropdown-menu" role="menu">
-              <li><a href="/white-papers">White Papers</a></li>
-              <li><a href="/case-studies">Case Studies</a></li>
-              <li><a href="/resources">Articles &amp; Videos</a></li>
-          </ul>
-        </li>
-
-        <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
-          <ul class="dropdown-menu" role="menu">
-            <li>
-              <a href="/news">News</a>
-            </li>
-            <li>
-              <a href="/events">Events</a>
-            </li>
-            <li>
-              <a href="/open-iot-challenge">Open IoT Challenge</a>
-            </li>
-            <li>
-              <a href="http://www.meetup.com/Virtual-IoT" target="_blank">Virtual IoT Meetup</a>
-            </li>
-          </ul>
-        </li>
-        <li><a href="/working-group">About us</a>
-        </li>
-
-        <li style="min-width: 100px; padding-top: 12px; padding-left: 15px; margin-left:-35px">
-            <a href="https://twitter.com/eclipseiot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </li>
-      </ul>
-    </div>
-    
-  </div>
-  
-</nav>
-
-  </header>
   <main class="main">
     <div class="well">
       <div class="container xpurple">
@@ -839,7 +853,10 @@ h3:before {
       </div>
     </section>
   </main>
-  <footer id="solstice-footer">
+
+  
+  
+<footer id="solstice-footer">
   <div class="container">
     <div class="row">
       <section class="col-sm-3 hidden-print" id="footer-eclipse-foundation">
@@ -935,15 +952,13 @@ h3:before {
     </div>
   </div>
 </footer>
-  <div id="contact-modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="contact-label" aria-hidden="true" style="display: none;">
-  </div>
-  </div>
-  
-  
-  
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-</body>
 
+
+
+<script src="https://iot.eclipse.org/assets/js/main.js"></script>
+
+
+  
+</body>
 </html>
+

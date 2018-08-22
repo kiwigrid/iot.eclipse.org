@@ -6,6 +6,8 @@
     <description>Recent content in Events on Eclipse IoT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
     <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/events/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>KubeCon &#43; CloudNativeCon China</title>
       <link>https://iot.eclipse.org/events/2018-11-13-kubeconchina/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-11-13-kubeconchina/</guid>
       <description></description>
     </item>
@@ -24,7 +26,7 @@
       <title>All Things IoT @ EclipseCon Europe</title>
       <link>https://iot.eclipse.org/events/2018-10-22-iot-ece-2018/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-10-22-iot-ece-2018/</guid>
       <description></description>
     </item>
@@ -33,7 +35,7 @@
       <title>Eclipse IoT Day Singapore 2018</title>
       <link>https://iot.eclipse.org/events/2018-09-18-iot-day-asia-2018/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-09-18-iot-day-asia-2018/</guid>
       <description></description>
     </item>
@@ -42,7 +44,7 @@
       <title>IoT World Asia 2018</title>
       <link>https://iot.eclipse.org/events/2018-09-18-iot-world-asia-2018/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-09-18-iot-world-asia-2018/</guid>
       <description></description>
     </item>
@@ -51,7 +53,7 @@
       <title>Ignition Community Conference 2018</title>
       <link>https://iot.eclipse.org/events/2018-09-17-ignition-2018/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-09-17-ignition-2018/</guid>
       <description></description>
     </item>
@@ -60,7 +62,7 @@
       <title>Eclipse VOLTTRON Days</title>
       <link>https://iot.eclipse.org/events/2018-08-21-volttron-days/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-08-21-volttron-days/</guid>
       <description></description>
     </item>
@@ -69,7 +71,7 @@
       <title>EclipseCon France 2018</title>
       <link>https://iot.eclipse.org/events/2018-06-13-ecf-2018/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-06-13-ecf-2018/</guid>
       <description></description>
     </item>
@@ -78,7 +80,7 @@
       <title>Eclipse IoT Day Santa Clara</title>
       <link>https://iot.eclipse.org/events/2018-05-14-iot-day-santa-clara/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-05-14-iot-day-santa-clara/</guid>
       <description></description>
     </item>
@@ -87,7 +89,7 @@
       <title>IoT World 2018</title>
       <link>https://iot.eclipse.org/events/2018-04-14-iot-world-2018/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-04-14-iot-world-2018/</guid>
       <description></description>
     </item>
@@ -96,7 +98,7 @@
       <title>KubeCon / CloudNativeCon Europe 2018</title>
       <link>https://iot.eclipse.org/events/2018-05-02-kubecon/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-05-02-kubecon/</guid>
       <description></description>
     </item>
@@ -105,7 +107,7 @@
       <title>IoTBuild</title>
       <link>https://iot.eclipse.org/events/2018-03-27-iotbuild/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-03-27-iotbuild/</guid>
       <description></description>
     </item>
@@ -114,7 +116,7 @@
       <title>Bosch ConnectedWorld 2018</title>
       <link>https://iot.eclipse.org/events/2018-02-21-bcw-2018/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-02-21-bcw-2018/</guid>
       <description></description>
     </item>
@@ -123,7 +125,7 @@
       <title>Jfokus 2018</title>
       <link>https://iot.eclipse.org/events/2018-02-05-jfokus-2018/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-02-05-jfokus-2018/</guid>
       <description></description>
     </item>
@@ -132,7 +134,7 @@
       <title>FOSDEM 2018</title>
       <link>https://iot.eclipse.org/events/2018-02-03-fosdem-2018/</link>
       <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-02-03-fosdem-2018/</guid>
       <description></description>
     </item>
@@ -141,7 +143,7 @@
       <title>The Things Conference</title>
       <link>https://iot.eclipse.org/events/2018-02-01-the-things-network-conference/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2018-02-01-the-things-network-conference/</guid>
       <description></description>
     </item>
@@ -150,7 +152,7 @@
       <title>KubeCon</title>
       <link>https://iot.eclipse.org/events/2017-12-06-kubecon/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-12-06-kubecon/</guid>
       <description></description>
     </item>
@@ -159,7 +161,7 @@
       <title>JVM-Con</title>
       <link>https://iot.eclipse.org/events/2017-11-28-jvmcon/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-11-28-jvmcon/</guid>
       <description></description>
     </item>
@@ -168,7 +170,7 @@
       <title>IoT Day Italy</title>
       <link>https://iot.eclipse.org/events/2017-11-24-iot-day-italy/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-11-24-iot-day-italy/</guid>
       <description></description>
     </item>
@@ -177,7 +179,7 @@
       <title>Hacking Climate Change</title>
       <link>https://iot.eclipse.org/events/2017-11-18-hack-climate-change/</link>
       <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-11-18-hack-climate-change/</guid>
       <description></description>
     </item>
@@ -186,7 +188,7 @@
       <title>EclipseCon Europe 2017</title>
       <link>https://iot.eclipse.org/events/2017-10-24-eclipsecon-europe/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-10-24-eclipsecon-europe/</guid>
       <description></description>
     </item>
@@ -195,7 +197,7 @@
       <title>Eclipse IoT Day @ EclipseCon Europe</title>
       <link>https://iot.eclipse.org/events/2017-10-23-eclipse-iot-ece/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-10-23-eclipse-iot-ece/</guid>
       <description></description>
     </item>
@@ -204,7 +206,7 @@
       <title>IoT Solutions World Congress</title>
       <link>https://iot.eclipse.org/events/2017-10-03-iot-world-congress/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-10-03-iot-world-congress/</guid>
       <description></description>
     </item>
@@ -213,7 +215,7 @@
       <title>IoT Hackathon Singapore</title>
       <link>https://iot.eclipse.org/events/2017-09-25-iot-hackathon/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-09-25-iot-hackathon/</guid>
       <description></description>
     </item>
@@ -222,7 +224,7 @@
       <title>Thingmonk 2017</title>
       <link>https://iot.eclipse.org/events/2017-09-12-thingmonk/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-09-12-thingmonk/</guid>
       <description></description>
     </item>
@@ -231,7 +233,7 @@
       <title>Eclipse IoT Day @ Thingmonk</title>
       <link>https://iot.eclipse.org/events/2017-09-11-eclipse-thingmonk/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-09-11-eclipse-thingmonk/</guid>
       <description></description>
     </item>
@@ -240,7 +242,7 @@
       <title>EclipseCon France 2017</title>
       <link>https://iot.eclipse.org/events/2017-06-21-ecf2017/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-06-21-ecf2017/</guid>
       <description></description>
     </item>
@@ -249,7 +251,7 @@
       <title>IoT Live Slam</title>
       <link>https://iot.eclipse.org/events/2017-06-21-iot-slam-live/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-06-21-iot-slam-live/</guid>
       <description></description>
     </item>
@@ -258,7 +260,7 @@
       <title>IoT World 2017</title>
       <link>https://iot.eclipse.org/events/2017-05-16-iotworld2017/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-05-16-iotworld2017/</guid>
       <description></description>
     </item>
@@ -267,7 +269,7 @@
       <title>Red Hat Summit</title>
       <link>https://iot.eclipse.org/events/2017-05-02-redhatsummit/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-05-02-redhatsummit/</guid>
       <description></description>
     </item>
@@ -276,7 +278,7 @@
       <title>Hannover Messe 2017</title>
       <link>https://iot.eclipse.org/events/2017-04-24-hannover-messe-2017/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-04-24-hannover-messe-2017/</guid>
       <description></description>
     </item>
@@ -285,7 +287,7 @@
       <title>Devoxx US 2017</title>
       <link>https://iot.eclipse.org/events/2017-03-21-devoxxus/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-21-devoxxus/</guid>
       <description></description>
     </item>
@@ -294,7 +296,7 @@
       <title>Eclipse Converge 2017</title>
       <link>https://iot.eclipse.org/events/2017-03-20-eclipse-converge/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-20-eclipse-converge/</guid>
       <description></description>
     </item>
@@ -303,7 +305,7 @@
       <title>Eclipse IoT Day - San Jose</title>
       <link>https://iot.eclipse.org/events/2017-03-20-iot-day-2017/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-20-iot-day-2017/</guid>
       <description></description>
     </item>
@@ -312,7 +314,7 @@
       <title>Bosch Connected World 2017</title>
       <link>https://iot.eclipse.org/events/2017-03-15-boschconnectedworld/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-15-boschconnectedworld/</guid>
       <description></description>
     </item>
@@ -321,7 +323,7 @@
       <title>Eclipse IoT Day Grenoble</title>
       <link>https://iot.eclipse.org/events/2017-03-09-iotdaygrenoble/</link>
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-09-iotdaygrenoble/</guid>
       <description></description>
     </item>
@@ -330,7 +332,7 @@
       <title>Internet of Manufacturing</title>
       <link>https://iot.eclipse.org/events/2017-03-07-iotmanufacturing/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-03-07-iotmanufacturing/</guid>
       <description></description>
     </item>
@@ -339,7 +341,7 @@
       <title>Container World 2017</title>
       <link>https://iot.eclipse.org/events/2017-02-21-containerworld/</link>
       <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2017-02-21-containerworld/</guid>
       <description></description>
     </item>
@@ -348,7 +350,7 @@
       <title>Open Data, Open Tools: Transforming IoT, LocationTech &amp; Science</title>
       <link>https://iot.eclipse.org/events/2016-11-24-meetup-london/</link>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-11-24-meetup-london/</guid>
       <description></description>
     </item>
@@ -357,7 +359,7 @@
       <title>IoT World Europe 2016</title>
       <link>https://iot.eclipse.org/events/2016-11-20-iot-world-europe/</link>
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-11-20-iot-world-europe/</guid>
       <description></description>
     </item>
@@ -366,7 +368,7 @@
       <title>ETSI IoT/M2M Workshop</title>
       <link>https://iot.eclipse.org/events/2016-11-14-etsi-iot-m2m-workshops/</link>
       <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-11-14-etsi-iot-m2m-workshops/</guid>
       <description></description>
     </item>
@@ -375,7 +377,7 @@
       <title>EclipseCon Europe 2016</title>
       <link>https://iot.eclipse.org/events/2016-10-25-eclipsecon-europe/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-10-25-eclipsecon-europe/</guid>
       <description></description>
     </item>
@@ -384,7 +386,7 @@
       <title>IoT Day @ EclipseCon Europe</title>
       <link>https://iot.eclipse.org/events/2016-10-25-iot-day-ece/</link>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-10-25-iot-day-ece/</guid>
       <description></description>
     </item>
@@ -393,7 +395,7 @@
       <title>Women in IoT meetup</title>
       <link>https://iot.eclipse.org/events/2016-10-19-women-in-iot-meetup/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-10-19-women-in-iot-meetup/</guid>
       <description></description>
     </item>
@@ -402,7 +404,7 @@
       <title>IoT613</title>
       <link>https://iot.eclipse.org/events/2016-09-29-iot-613/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-09-29-iot-613/</guid>
       <description></description>
     </item>
@@ -411,7 +413,7 @@
       <title>Smart Summit London</title>
       <link>https://iot.eclipse.org/events/2016-09-21-smartsummituk/</link>
       <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-09-21-smartsummituk/</guid>
       <description></description>
     </item>
@@ -420,7 +422,7 @@
       <title>JavaOne 2016</title>
       <link>https://iot.eclipse.org/events/2016-09-18-javaone/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-09-18-javaone/</guid>
       <description></description>
     </item>
@@ -429,7 +431,7 @@
       <title>IoT Workshop: Get Started with the Open IoT - Women Who Code</title>
       <link>https://iot.eclipse.org/events/2016-09-14-iotworkshop/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-09-14-iotworkshop/</guid>
       <description></description>
     </item>
@@ -438,7 +440,7 @@
       <title>ThingMonk &#43; Eclipse IoT</title>
       <link>https://iot.eclipse.org/events/2016-09-12-thingmonk/</link>
       <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-09-12-thingmonk/</guid>
       <description></description>
     </item>
@@ -447,7 +449,7 @@
       <title>GetD</title>
       <link>https://iot.eclipse.org/events/2016-07-22-get-d/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-07-22-get-d/</guid>
       <description></description>
     </item>
@@ -456,7 +458,7 @@
       <title>EclipseCon France 2016</title>
       <link>https://iot.eclipse.org/events/2016-06-07-eclipseconfrance2016/</link>
       <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-06-07-eclipseconfrance2016/</guid>
       <description></description>
     </item>
@@ -465,7 +467,7 @@
       <title>IoT DevCon</title>
       <link>https://iot.eclipse.org/events/2016-05-25-iot-devcon/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-05-25-iot-devcon/</guid>
       <description></description>
     </item>
@@ -474,7 +476,7 @@
       <title>OSCON 2016</title>
       <link>https://iot.eclipse.org/events/2016-05-18-oscon/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-05-18-oscon/</guid>
       <description></description>
     </item>
@@ -483,7 +485,7 @@
       <title>IoT World</title>
       <link>https://iot.eclipse.org/events/2016-05-10-iot-world/</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-05-10-iot-world/</guid>
       <description></description>
     </item>
@@ -492,7 +494,7 @@
       <title>Eclipse IoT Day Grenoble</title>
       <link>https://iot.eclipse.org/events/2016-04-28-iot-day-grenoble/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-04-28-iot-day-grenoble/</guid>
       <description></description>
     </item>
@@ -501,7 +503,7 @@
       <title>SIdO</title>
       <link>https://iot.eclipse.org/events/2016-04-07-sido/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-04-07-sido/</guid>
       <description></description>
     </item>
@@ -510,7 +512,7 @@
       <title>Smart Summit</title>
       <link>https://iot.eclipse.org/events/2016-04-07-smart-summit/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-04-07-smart-summit/</guid>
       <description></description>
     </item>
@@ -519,7 +521,7 @@
       <title>OpenIoT Summit</title>
       <link>https://iot.eclipse.org/events/2016-04-06-openiot/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-04-06-openiot/</guid>
       <description></description>
     </item>
@@ -528,7 +530,7 @@
       <title>CeBIT 2016</title>
       <link>https://iot.eclipse.org/events/2016-03-14-cebit/</link>
       <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-03-14-cebit/</guid>
       <description></description>
     </item>
@@ -537,7 +539,7 @@
       <title>EclipseCon - IoT Summit 2016</title>
       <link>https://iot.eclipse.org/events/2016-03-10-eclipsecon/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-03-10-eclipsecon/</guid>
       <description></description>
     </item>
@@ -546,7 +548,7 @@
       <title>Embedded World 2016</title>
       <link>https://iot.eclipse.org/events/2016-02-23-embedded-world/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-02-23-embedded-world/</guid>
       <description></description>
     </item>
@@ -555,7 +557,7 @@
       <title>IoT Evolution Expo</title>
       <link>https://iot.eclipse.org/events/2016-01-26-iot-evolution/</link>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2016-01-26-iot-evolution/</guid>
       <description></description>
     </item>
@@ -564,7 +566,7 @@
       <title>IEEE World Forum on Internet of Things</title>
       <link>https://iot.eclipse.org/events/2015-12-16-ieee/</link>
       <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-12-16-ieee/</guid>
       <description></description>
     </item>
@@ -573,7 +575,7 @@
       <title>SPS IPC Drives 2015</title>
       <link>https://iot.eclipse.org/events/2015-11-23-sps/</link>
       <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-11-23-sps/</guid>
       <description></description>
     </item>
@@ -582,7 +584,7 @@
       <title>EclipseCon Europe 2015</title>
       <link>https://iot.eclipse.org/events/2015-11-03-eclipsecon-europe/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-11-03-eclipsecon-europe/</guid>
       <description></description>
     </item>
@@ -591,7 +593,7 @@
       <title>JavaOne 2015</title>
       <link>https://iot.eclipse.org/events/2015-10-25-javaone/</link>
       <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-10-25-javaone/</guid>
       <description></description>
     </item>
@@ -600,7 +602,7 @@
       <title>Coding Serbia Conference</title>
       <link>https://iot.eclipse.org/events/2015-10-08-codingserbia/</link>
       <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-10-08-codingserbia/</guid>
       <description></description>
     </item>
@@ -609,7 +611,7 @@
       <title>Industry of Things World</title>
       <link>https://iot.eclipse.org/events/2015-09-21/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-09-21/</guid>
       <description></description>
     </item>
@@ -618,7 +620,7 @@
       <title>M2M Summit 2015</title>
       <link>https://iot.eclipse.org/events/2015-09-08-m2m-summit/</link>
       <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-09-08-m2m-summit/</guid>
       <description></description>
     </item>
@@ -627,7 +629,7 @@
       <title>Getting started with MQTT</title>
       <link>https://iot.eclipse.org/events/2015-07-02-virtualiot-mqtt/</link>
       <pubDate>Thu, 02 Jul 2015 17:00:00 +0200</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-07-02-virtualiot-mqtt/</guid>
       <description></description>
     </item>
@@ -636,7 +638,7 @@
       <title>EclipseCon France 2015</title>
       <link>https://iot.eclipse.org/events/2015-06-24-eclipseconfrance2015/</link>
       <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-06-24-eclipseconfrance2015/</guid>
       <description></description>
     </item>
@@ -645,7 +647,7 @@
       <title>O&#39;Reilly SOLID</title>
       <link>https://iot.eclipse.org/events/2015-06-23-solidcon/</link>
       <pubDate>Tue, 23 Jun 2015 16:12:42 +0100</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-06-23-solidcon/</guid>
       <description></description>
     </item>
@@ -654,7 +656,7 @@
       <title>Simulating hardware components for IoT application development</title>
       <link>https://iot.eclipse.org/events/2015-06-10-kinoma/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-06-10-kinoma/</guid>
       <description></description>
     </item>
@@ -663,7 +665,7 @@
       <title>Practical Operational Intelligence and Fast Time to Value for the IoT</title>
       <link>https://iot.eclipse.org/events/2015-05-27-virtualiot-splunk/</link>
       <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-27-virtualiot-splunk/</guid>
       <description></description>
     </item>
@@ -672,7 +674,7 @@
       <title>Eclipse IoT Breakfast</title>
       <link>https://iot.eclipse.org/events/2015-05-12-iot-breakfast-madrid/</link>
       <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-12-iot-breakfast-madrid/</guid>
       <description></description>
     </item>
@@ -681,7 +683,7 @@
       <title>Internet of Things: The Role of Free and Open Source Software</title>
       <link>https://iot.eclipse.org/events/2015-05-20-webinar-dla-piper/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-20-webinar-dla-piper/</guid>
       <description></description>
     </item>
@@ -690,7 +692,7 @@
       <title>Creating end-to-end IoT applications with Eclipse Kura &amp; Solair IoT Platform</title>
       <link>https://iot.eclipse.org/events/2015-05-14-virtualiot-solair/</link>
       <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-14-virtualiot-solair/</guid>
       <description></description>
     </item>
@@ -699,7 +701,7 @@
       <title>IoT World</title>
       <link>https://iot.eclipse.org/events/2015-05-12-iot-world/</link>
       <pubDate>Tue, 12 May 2015 16:12:42 +0100</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-12-iot-world/</guid>
       <description></description>
     </item>
@@ -708,7 +710,7 @@
       <title>IoT DevCon</title>
       <link>https://iot.eclipse.org/events/2015-05-06-iot-devcon/</link>
       <pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-06-iot-devcon/</guid>
       <description></description>
     </item>
@@ -717,7 +719,7 @@
       <title>The IoT Gateway Dream Team: Eclipse Kura &amp; Apache Camel</title>
       <link>https://iot.eclipse.org/events/2015-05-06-virtualiot-kura-camel/</link>
       <pubDate>Wed, 06 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-05-06-virtualiot-kura-camel/</guid>
       <description></description>
     </item>
@@ -726,7 +728,7 @@
       <title>Journée IoT INSA</title>
       <link>https://iot.eclipse.org/events/2015-04-09-iot-insa/</link>
       <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-04-09-iot-insa/</guid>
       <description></description>
     </item>
@@ -735,7 +737,7 @@
       <title>IoT Conference – Spring</title>
       <link>https://iot.eclipse.org/events/2015-03-23-iot-conference/</link>
       <pubDate>Mon, 23 Mar 2015 16:12:42 +0100</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-03-23-iot-conference/</guid>
       <description></description>
     </item>
@@ -744,7 +746,7 @@
       <title>Eclipse Day Dresden</title>
       <link>https://iot.eclipse.org/events/2015-03-18-eclipse-day-dresden/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-03-18-eclipse-day-dresden/</guid>
       <description></description>
     </item>
@@ -753,7 +755,7 @@
       <title>EclipseCon NA 2015</title>
       <link>https://iot.eclipse.org/events/2015-03-09-eclipsecon2015/</link>
       <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
-      
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/events/2015-03-09-eclipsecon2015/</guid>
       <description></description>
     </item>
