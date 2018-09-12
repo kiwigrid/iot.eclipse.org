@@ -214,27 +214,6 @@ EclipseSource is focused on Business Applications, Mobile Applications, Modeling
     </item>
     
     <item>
-      <title>IOTRACKS</title>
-      <link>https://iot.eclipse.org/member/iotracks/</link>
-      <pubDate>Wed, 31 Aug 2016 15:31:16 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/iotracks/</guid>
-      <description>With IOTRACKS fog computing, developing for the edge becomes as easy as developing for the Web.
- ioFabric gives you a universal runtime for the edge ComSat lets you interconnect private locations using the public Internet ioAuthoring gives you drag-and-drop microservices  </description>
-    </item>
-    
-    <item>
-      <title>SensorUp</title>
-      <link>https://iot.eclipse.org/member/sensorup/</link>
-      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/sensorup/</guid>
-      <description>Data from all your different sensors, accessible in a single platform
-SensorUp makes information from all different kinds of sensors accessible in a single platform, by using open standards to connect the sensors. Our IoT Platform is the world&amp;rsquo;s first, most complete, compliant implementation of the OGC SensorThings API.
-SensorThings API was purpose-built for IoT, and manages low power, low bandwidth, and intermittent connectivity situations. The standard isREST-based and JSON encoded,so it&amp;rsquo;s developer friendly.</description>
-    </item>
-    
-    <item>
       <title>Siemens</title>
       <link>https://iot.eclipse.org/member/siemens/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
@@ -314,15 +293,6 @@ More and more new technologies and devices are introduced to our living, working
     </item>
     
     <item>
-      <title>Litmus Automation</title>
-      <link>https://iot.eclipse.org/member/litmus/</link>
-      <pubDate>Sun, 08 Mar 2015 15:31:20 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/litmus/</guid>
-      <description>Litmus Automation aims to help businesses adapt to the smart revolution in technology by enabling connected solutions. The company&amp;rsquo;s full-featured Internet of Things platform Loop aids in accelerating revenue generation and operational business impact from connected applications.</description>
-    </item>
-    
-    <item>
       <title>M2M Alliance</title>
       <link>https://iot.eclipse.org/member/m2m-alliance/</link>
       <pubDate>Sun, 08 Mar 2015 15:31:20 -0700</pubDate>
@@ -347,17 +317,6 @@ More and more new technologies and devices are introduced to our living, working
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/member/itemis/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>GadgetKeeper</title>
-      <link>https://iot.eclipse.org/member/gadgetkeeper/</link>
-      <pubDate>Sun, 08 Mar 2015 15:31:18 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/gadgetkeeper/</guid>
-      <description>GadgetKeeper is an Internet Of Things platform allowing the rapid creation if IoT solutions to connect your sensors, devices, equipment (&amp;ldquo;Things&amp;rdquo;) with people and systems.
-GadgetKeeper&amp;rsquo;s technology eliminates complexity by simplifying and standardizing the way information is managed and exchanged so that physical and virtual assets and services can work together as one integrated system.
-GadgetKeeper provides you with foundational IoT building blocks (compete object model for things/services, templates and versioning, reach data types, programmable business logic) and services (data storage, time series, multiple communication protocols, integration with external services, life-cycle management and elastic scalability) allowing you to focus on product innovation rather than on enabling infrastructure.</description>
     </item>
     
     <item>
