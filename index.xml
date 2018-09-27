@@ -81,6 +81,15 @@ If you are interested in proposing a new testbed, you can send an email to iot@e
     </item>
     
     <item>
+      <title>CNCF &amp; Eclipse Foundation Push Kubernetes to the Edge</title>
+      <link>https://iot.eclipse.org/news/2018-09-26-k8s-iot-edge-wg-announcement/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2018-09-26-k8s-iot-edge-wg-announcement/</guid>
+      <description>The Cloud Native Computing Foundation (CNCF) and the Eclipse Foundation formed a new working group focused on using Kubernetes to manage IoT and edge networking deployments.</description>
+    </item>
+    
+    <item>
       <title>Eclipse IoT Day Singapore 2018</title>
       <link>https://iot.eclipse.org/events/2018-09-18-iot-day-asia-2018/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
