@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eclipse IoT Day Santa Clara</title>
+      <link>https://iot.eclipse.org/events/2019-05-13-iot-day-santa-clara/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/events/2019-05-13-iot-day-santa-clara/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KubeCon &#43; CloudNativeCon China</title>
