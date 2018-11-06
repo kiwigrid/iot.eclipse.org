@@ -1908,16 +1908,6 @@ List institute counts more than 700 partners and every year more than a 100 part
     </item>
     
     <item>
-      <title>Samsung ARTIK</title>
-      <link>https://iot.eclipse.org/member/samsung/</link>
-      <pubDate>Fri, 18 Nov 2016 15:31:21 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/samsung/</guid>
-      <description>Samsung and Eclipse
-In an effort to strengthen our commitment to open source development, Samsung Semiconductor Inc. is proud to be a solution member of the Eclipse Foundation. In May 2015, Samsung announced the Samsung ARTIK Smart IoT platform in effort to provide an end-to-end solution to help accelerate the development of IoT solutions. Samsung ARTIK leverages many projects sponsored by the Eclipse Foundation IoT Working Group, including Mosquitto, Paho, KURA, Wakaama and more.</description>
-    </item>
-    
-    <item>
       <title>Connecting Objects to the Cloud using Eclipse Leshan</title>
       <link>https://iot.eclipse.org/resources/2016-11-16-virtual-iot-recording/</link>
       <pubDate>Wed, 16 Nov 2016 16:56:18 +0000</pubDate>
@@ -3309,15 +3299,6 @@ Canonical leads the development of the snap universal Linux packaging system for
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/member/dcsquare/</guid>
       <description>dc-square is a company based in Southern Germany building software solutions for the Internet of Things. Our product HiveMQ is a MQTT broker for the enterprise, which makes it possible to connect thousands and millions of devices over wired or wireless networks with very efficient bandwidth usage and push technology. Our focus is on providing IoT building blocks for the enterprise and advice on, consult on or implement IoT solutions for companies around them.</description>
-    </item>
-    
-    <item>
-      <title>Bitreactive</title>
-      <link>https://iot.eclipse.org/member/bitreactive/</link>
-      <pubDate>Sun, 08 Mar 2015 15:31:15 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/bitreactive/</guid>
-      <description>Bitreactive makes Reactive Blocks, a tool designed to accelerate and simplify M2M and IoT software development. Its benefits are especially well suited for applications that run autonomously on gateways. Functionality that is often used is provided by dedicated building blocks, for instance for protocols like MQTT or Modbus, access to data collection APIs or processing and buffering of data. The tool checks if applications work correctly with regard to their behavior, and detects a range of errors automatically that are hard to find by traditional testing.</description>
     </item>
     
     <item>
