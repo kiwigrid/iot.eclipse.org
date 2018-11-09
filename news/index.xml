@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edgeworx ioFog Platform Drills Software Down to the Edge</title>
+      <link>https://iot.eclipse.org/news/2018-10-31-edgeworx-iofog-platform-drills-software-down-to-the-edge/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2018-10-31-edgeworx-iofog-platform-drills-software-down-to-the-edge/</guid>
+      <description>Edgeworx emerged this week out of stealth mode with its open source ioFog platform, joining a long list of companies looking to gain a foothold in the emerging edge computing space.</description>
+    </item>
     
     <item>
       <title>Industrial IoT World, Atlanta</title>
@@ -21,6 +30,24 @@
       <guid>https://iot.eclipse.org/news/2018-10-22-industrial-iot-world-atlanta/</guid>
       <description>The Eclipse Foundation is a proud media sponsor of Industrial IoT World in Atlanta, Georgia this month!
 Join us at Industrial IoT World in Atlanta on Oct 29-30! Book your conference pass with code ECLIPSE20 for 20% off.</description>
+    </item>
+    
+    <item>
+      <title>PNNL’s Volttron Goes Way Beyond Building Energy Management</title>
+      <link>https://iot.eclipse.org/news/2018-10-22-pnnl-s-volttron-goes-way-beyond-building-energy-management/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2018-10-22-pnnl-s-volttron-goes-way-beyond-building-energy-management/</guid>
+      <description>Volttron has morphed into a cybersecure platform for development of new analysis and management solutions</description>
+    </item>
+    
+    <item>
+      <title>A primer on digital twins in the IoT</title>
+      <link>https://iot.eclipse.org/news/2018-10-18-a-primer-on-digital-twins-in-the-iot/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2018-10-18-a-primer-on-digital-twins-in-the-iot/</guid>
+      <description>The emergence of the IoT has led to an ever more heightened interest in the digital twins concept.</description>
     </item>
     
     <item>
