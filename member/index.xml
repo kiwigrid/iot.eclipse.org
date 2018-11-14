@@ -8,10 +8,30 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Wed, 11 Jul 2018 15:31:15 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 15:31:15 -0700</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edgeworx</title>
+      <link>https://iot.eclipse.org/member/edgeworx/</link>
+      <pubDate>Tue, 13 Nov 2018 15:31:15 -0700</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/member/edgeworx/</guid>
+      <description>Edgeworx, the creators of Eclipse ioFog, delivers an edge application platform providing developers a standardized way to develop and remotely deploy secure microservices for the edge.
+Key features of ioFog Engine:
+Intelligence - Provides an Edge Compute Platform enabling any hardware to run any software, creating an intelligent edge node. Connected - Makes it easy to create a dynamic, distributed, self-organizing Edge Compute Network (ECN) with all your devices at the edge.</description>
+    </item>
+    
+    <item>
+      <title>Inductive Automation</title>
+      <link>https://iot.eclipse.org/member/inductive_automation/</link>
+      <pubDate>Tue, 13 Nov 2018 15:31:15 -0700</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/member/inductive_automation/</guid>
+      <description>Inductive Automation creates industrial software that empowers organizations to swiftly turn great ideas into reality by removing all technological and economic obstacles. By cross-pollinating IT with SCADA technologies, Inductive Automation created Ignition software, the first universal industrial application platform with unlimited potential. Ignition empowers industrial organizations around the world and in virtually every industry, with an outstanding software platform and top-notch support.</description>
+    </item>
     
     <item>
       <title>Calypso Networks Association</title>
