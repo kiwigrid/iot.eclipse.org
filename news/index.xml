@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open IoT Challenge 5.0</title>
+      <link>https://iot.eclipse.org/news/2018-11-20-open-iot-challenge/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2018-11-20-open-iot-challenge/</guid>
+      <description>Our 5th annual Open IoT Challenge is now open! Participate today by submitting your proposal by Dec. 7th, 2018. Find all the details of the challenge by clicking on the link above.</description>
+    </item>
     
     <item>
       <title>Edgeworx ioFog Platform Drills Software Down to the Edge</title>
