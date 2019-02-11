@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market Reports on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/market-reports/</link>
+    <description>Recent content in Market Reports on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/market-reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eclipse Foundation’s open source IoT activity reaches critical mass</title>
+      <link>https://iot.eclipse.org/market-reports/iot-industry/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/market-reports/iot-industry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
