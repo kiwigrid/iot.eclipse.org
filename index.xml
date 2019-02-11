@@ -24,12 +24,48 @@ It is used for communicating with Bluetooth low energy sensors that are attached
     </item>
     
     <item>
+      <title>IoT Developer Survey 2018</title>
+      <link>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Production Performance Management</title>
       <link>https://iot.eclipse.org/testbeds/production-performance-management/</link>
       <pubDate>Fri, 06 Oct 2017 16:54:14 +0200</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/testbeds/production-performance-management/</guid>
       <description>At the heart of the testbed is the Production Performance Management Protocol (PPMP), which allows uniform representation of all the data and information related to manufacturing processes. The testbed showcases how performance data from different industrial assets can be connected to the same IoT Cloud backend, so that this data can be further processed, or simply visualized.   Standardized communication using PPMP  PPMP specifies a format that allows to capture data that is required to do performance analysis of production facilities.</description>
+    </item>
+    
+    <item>
+      <title>IoT Developer Survey 2017</title>
+      <link>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Developer Survey 2016</title>
+      <link>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Developer Survey 2015</title>
+      <link>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/iot-developer-surveys/iot-developer-survey-2015/</guid>
+      <description></description>
     </item>
     
     <item>
