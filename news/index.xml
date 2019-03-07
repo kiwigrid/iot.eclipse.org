@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Time is running out … the 2019 IoT Developer Survey is underway and we need your input!</title>
+      <link>https://iot.eclipse.org/news/2019-03-07-time-is-running-out/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-03-07-time-is-running-out/</guid>
+      <description>2 days left! Participate in our 5th annual IoT Developer Survey, organized by the Eclipse IoT Working Group! This survey is intended to deliver valuable insight into programming languages, platforms, and infrastructure for building IoT solutions. As an IoT developer, we want to hear from you! Responses will be collected until Friday, March 8th.</description>
+    </item>
     
     <item>
       <title>Eclipse IoT Reaches New Milestones in Open Source IoT Leadership</title>
