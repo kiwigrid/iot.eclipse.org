@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Eclipse IoT Newsletter - February 2019</title>
+      <link>https://iot.eclipse.org/news/2019-02-28-eclipse-iot-newsletter-february-2019/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-02-28-eclipse-iot-newsletter-february-2019/</guid>
+      <description>Welcome to the first issue of the Eclipse IoT Newsletter for 2019, a newsletter tailored to share Eclipse IoT community and industry news. Thank you to all the authors who contributed great articles and blogs! Check them out today!</description>
+    </item>
+    
+    <item>
       <title>Eclipse IoT Reaches New Milestones in Open Source IoT Leadership</title>
       <link>https://iot.eclipse.org/news/2019-02-26-eclipse-iot-reaches-new-milestones-in-open-source-iot-leadership/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
@@ -47,6 +56,15 @@
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/news/2019-02-21-war-stories-about-edge-computing-on-kubernetes/</guid>
       <description>Edge computing on Kubernetes is emerging as a powerful way to share, distribute and manage data on a massive scale in ways that cloud or on-premise deployments cannot necessarily provide.</description>
+    </item>
+    
+    <item>
+      <title>Integrating Eclipse IoT</title>
+      <link>https://iot.eclipse.org/news/2019-02-20-integrating-eclipse-iot/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-02-20-integrating-eclipse-iot/</guid>
+      <description>Eclipse IoT is a diverse set of IoT related projects. This blog post will talk a bit about the challenges and opportunities this brings. And it offers a starting point for interested parties, to join forces and create something that is more than the sum of its projects. Written by Jens Reimann, Principal Software Engineer at Red Hat.​</description>
     </item>
     
     <item>
