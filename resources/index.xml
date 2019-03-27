@@ -176,15 +176,6 @@
     </item>
     
     <item>
-      <title>The Three Software Stacks Required for IoT Architectures</title>
-      <link>https://iot.eclipse.org/resources/2016-10-14-white-paper-iot-architectures/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2016-10-14-white-paper-iot-architectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eclipse Edje: A Java API for Microcontrollers</title>
       <link>https://iot.eclipse.org/resources/2016-09-28-virtual-iot-recording/</link>
       <pubDate>Wed, 28 Sep 2016 15:58:06 +0000</pubDate>
@@ -313,39 +304,12 @@ However, rolling out software updates in an…</description>
     </item>
     
     <item>
-      <title>Eclipse IoT case study: An IoT Software Suite to Connect Products to Customers’ Business</title>
-      <link>https://iot.eclipse.org/resources/2016-01-27-case-study-03/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2016-01-27-case-study-03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Introduction to OPC-UA: Interoperability for Industrial Automation &amp; Industrial IoT</title>
       <link>https://iot.eclipse.org/resources/2016-01-14-virtual-iot-recording/</link>
       <pubDate>Thu, 14 Jan 2016 16:57:45 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       <guid>https://iot.eclipse.org/resources/2016-01-14-virtual-iot-recording/</guid>
       <description>OPC-UA is the interoperability standard for the secure and reliable exchange of data and information in the industrial automation space and in other industries. It is platform independent and ensures …</description>
-    </item>
-    
-    <item>
-      <title>Eclipse IoT case study: Building Virtual Power Plants</title>
-      <link>https://iot.eclipse.org/resources/2015-12-22-case-study-02/</link>
-      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2015-12-22-case-study-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eclipse IoT case study: Monitoring Industrial Power Distribution</title>
-      <link>https://iot.eclipse.org/resources/2015-12-22-case-study-01/</link>
-      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2015-12-22-case-study-01/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Tue, 13 Nov 2018 15:31:15 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 18:10:49 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Engineering Group</title>
+      <link>https://iot.eclipse.org/member/engineering-group/</link>
+      <pubDate>Wed, 20 Mar 2019 18:10:49 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/member/engineering-group/</guid>
+      <description>Engineering Group is the major Italian IT player providing a complete offer of business integration, application and infrastructure outsourcing, innovative solutions and consultancy. With more than 9,000 employees and 50 sites in Italy, Germany, Spain, Belgium, Republic of Serbia, South America and the United States, Engineering Group has a consolidated presence on all vertical markets. Its Research and Innovation Department, relying on 250 resources, includes the Open Source, Big Data &amp;amp; Analytics Competency Centers, which manage the free/open source SpagoWorld initiative including three main projects: SpagoBI, Spagic and Spago4Q.</description>
+    </item>
     
     <item>
       <title>Edgeworx</title>
