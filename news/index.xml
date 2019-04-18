@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Survey of More Than 1,700 IoT Developers Reveals Top Hardware, Software “Stack” Choices</title>
+      <link>https://iot.eclipse.org/news/2019-04-08-new-survey-of-more-than-1-700-iot-developers-reveals-top-hardware-software-stack-choices/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-04-08-new-survey-of-more-than-1-700-iot-developers-reveals-top-hardware-software-stack-choices/</guid>
+      <description>The 2019 IoT Developer Survey Results are live. IoT developers are driving real commercial outcomes, survey results show two-thirds of respondents are working on IoT projects professionally. 38% of the users cited security as particularly challenging for IoT development, followed by connectivity, data collection and analysis, performance, privacy, and standards. See the full results here.</description>
+    </item>
     
     <item>
       <title>Time is running out … the 2019 IoT Developer Survey is underway and we need your input!</title>
