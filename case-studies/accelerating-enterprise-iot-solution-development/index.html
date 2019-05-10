@@ -1,0 +1,384 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Case Study: Accelerating Enterprise IoT Solution Development | IoT development made simple - iot.eclipse.org</title>
+<meta property="og:title" content="Case Study: Accelerating Enterprise IoT Solution Development | IoT development made simple - iot.eclipse.org" />
+<meta name="twitter:title" content="Case Study: Accelerating Enterprise IoT Solution Development | IoT development made simple - iot.eclipse.org" />
+<meta name="description" content="Red Hat, Eurotech, and Cloudera join forces at the Eclipse Foundation.">
+<meta property="og:description" content="Red Hat, Eurotech, and Cloudera join forces at the Eclipse Foundation.">
+<meta name="twitter:description" content="Red Hat, Eurotech, and Cloudera join forces at the Eclipse Foundation.">
+<meta name="author" content="Eclipse Foundation"/>
+<link href='https://iot.eclipse.org/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta property="og:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:image" content="https://iot.eclipse.org/site_preview.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@EclipseIoT" />
+<meta name="twitter:creator" content="@EclipseIoT" />
+<meta property="og:url" content="https://iot.eclipse.org/case-studies/accelerating-enterprise-iot-solution-development/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Eclipse IoT" />
+<meta name="keywords" content="">
+
+
+<meta name="generator" content="Hugo 0.46" />
+<link rel="canonical" href="https://iot.eclipse.org/case-studies/accelerating-enterprise-iot-solution-development/" />
+<link rel="alternate" href="https://iot.eclipse.org/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
+<link rel="stylesheet" href="https://iot.eclipse.org/assets/css/bootstrap.css">
+  
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+  
+  
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="author" href="/humans.txt" />
+
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff"> 
+
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700" rel="stylesheet" type="text/css"/>
+  
+</head>
+<body>
+  
+<a class="sr-only" href="#content">Skip to main content</a>
+<header class="header-wrapper" id="header-wrapper">
+  
+<nav class="navbar navbar-default">
+  <div class="container">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">
+      <img alt="Eclipse IoT" src="/assets/images/iot-logo.png">
+      </a>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Getting Started</a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/getting-started#resources">Resources</a></li>
+            <li><a href="/getting-started#sandboxes">Sandboxes</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology</a>
+          <ul class="dropdown-menu" role="menu">
+            
+            
+            <li><a href="/devices">Constrained Devices</a></li>
+            <li><a href="/gateways">Gateways &amp; Smart Devices</a></li>
+            <li><a href="/cloud">IoT Cloud Platforms</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/standards">Open Standards</a></li>
+            
+            <li><a href="/testbeds">Open Testbeds</a></li>
+            <li><a href="/projects">Browse the Projects</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/white-papers">White Papers</a></li>
+            <li><a href="/iot-developer-surveys">IoT Developer Surveys</a></li>
+            <li><a href="/case-studies">Case Studies</a></li>
+            <li><a href="/resources">Articles &amp; Videos</a></li>
+            <li><a href="/market-reports">Market Reports</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="/news">News</a>
+            </li>
+            <li>
+              <a href="/events">Events</a>
+            </li>
+            <li>
+              <a href="/open-iot-challenge">Open IoT Challenge</a>
+            </li>
+            <li>
+              <a href="http://www.meetup.com/Virtual-IoT" target="_blank">Virtual IoT Meetup</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+        <li>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Membership</a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/membership">Join Eclipse IoT</a></li>
+            <li><a href="/membership#member-testimonials">Member Testimonials</a></li>
+            <li><a href="/membership#benefits">Membership Benefits</a></li>
+            <li><a href="/membership/members">Explore Our Members</a></li>
+          </ul>
+        </li>
+        
+        <li style="min-width: 100px; padding-top: 12px; padding-left: 15px; margin-left:-35px">
+          <a href="https://twitter.com/eclipseiot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </li>
+      </ul>
+    </div>
+    
+  </div>
+  
+</nav>
+  
+
+</header>
+
+  
+  
+<main class="main">
+  <div class="well">
+    <div class="container xpurple">
+      <h2>
+      <a href="/case-studies" style="color: white; ">Case Study</a>
+      <h2>
+      <h1>» Accelerating Enterprise IoT Solution Development</h1>
+      <p class="lead">
+        "Red Hat, Eurotech, and Cloudera join forces at the Eclipse Foundation."
+      </p>
+    </div>
+  </div>
+  <section class="row-fluid" style="padding-bottom: 0px;">
+    <div class="container">
+      <div class="row">
+        
+      </div>
+    </div>
+  </section>
+  <section class="second row-fluid" style="padding-bottom: 70px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          
+          <p><div class="row">
+    <div class="col-md-12">
+<p>To overcome common challenges and provide their customers with an end-to-end Internet of Things (IoT) solution, three industry leaders turned to the Eclipse Foundation’s Eclipse IoT Working Group. The results of their joint effort give enterprises the freedom and flexibility to take full advantage of IoT today and to continue advancing their IoT strategy as new capabilities emerge and business goals evolve.
+</p>
+
+<p>Red Hat. Eurotech. Cloudera. Each company operates globally and is a leader in its market space. Each company believes strongly in the value of open source technology and collaboration. And each company is trying to help its customers take advantage of Internet of Things (IoT) technologies. Together, they found new market strength at the Eclipse IoT Working Group, which is hosted at the Eclipse Foundation.</p>
+
+<p>With a strong collaborative spirit, a lot of trust, and the right <a href="https://iot.eclipse.org/projects/" target="_blank">Eclipse IoT projects</a>, Red Hat, Eurotech, and Cloudera developed the first end-to-end IoT architecture for enterprises that’s built entirely on open source components. </p>
+
+<p>The name Red Hat is virtually synonymous with the open source movement. Since it was founded in 1993, Red Hat has evolved to offer a broad portfolio of open source software products, from development and integration platforms to cloud computing, storage, and automation products.</p>
+
+<p>Eurotech was founded in 1992 and considers open collaboration to be part of its DNA. Today, the company provides pervasive computing technologies that help companies seamlessly interconnect distributed smart objects and move data between machines.</p>
+
+<p>Cloudera delivers an enterprise data cloud for any data, anywhere, from the edge to artificial intelligence, to help companies solve business problems, drive value, and differentiate from the competition. Cloudera was founded in 2008 with the belief that open source, open standards, and open markets are best.  </p>
+
+<h2 class="purple">Proprietary Solutions Restrict and Complicate IoT Deployments</h2>
+
+<p>As each company looked to help customers take advantage of IoT technologies, all faced similar challenges. “Ultimately, all of our customers are trying to solve a problem,” explains David Ingham, director of software engineering at Red Hat. “They have physical things they want to connect to IT systems to increase efficiency and make smarter, real-time business decisions.” </p>
+
+<p>But, trying to coerce multiple closed, priority systems to work together is difficult and complicated. “Our customers sometimes had to work with eight or 10 technology silos to implement IoT solutions,” adds Red Hat’s Global Technical Lead for IoT, David Bericat. “This created significant interoperability challenges when moving and mixing data across enterprise systems.” </p>
+
+<p>If customers couldn’t manage the complexity of deploying and integrating multiple proprietary solutions, their only option was to stitch together an end-to-end IoT solution themselves.</p>
+
+<p>“Our customers also wanted to ensure they had an underlying foundation that gave them the flexibility to run workloads whenever and wherever needed, today and tomorrow,” explains Bericat. “That meant they needed a modular IoT solution that would allow them to change out specific building blocks as their requirements and goals evolved, while reusing existing technologies and partnerships.”</p>
+
+<p>Finally, customers were looking for a dedicated team to accompany them on their IoT journey. For individual technology companies, such as Red Hat, Eurotech, and Cloudera, this is where it became increasingly difficult to meet customer expectations. “We learned from experience that adopting IoT is not a one-time exercise,” recalls Ingham. “It’s a journey, a transformation that changes business models. And that’s why we started on the path of building a partner ecosystem and working very closely with other vendors who could give our customers what they needed.”</p>
+
+<h2 class="purple">A Trusted Name in Open Source Provides Instant Credibility</h2>
+
+<p>Because all three companies were already open source advocates, it was very natural for them to turn to the Eclipse Foundation and its Eclipse IoT community for support. Eclipse IoT is the leading open source community for IoT innovation. It offers more than three million lines of code across dozens of projects and is supported by more than 40 of the world’s leading IoT ecosystem players.</p>
+
+<p>“Eclipse IoT and other communities showcase the power of collaboration,” says Vijay Raja, director of industry and solutions marketing at Cloudera. “We all believed it would be really impactful to focus on Eclipse IoT community projects to provide the foundation upon which we can build end-to-end, commercial IoT solutions.”</p>
+
+<p>Red Hat’s Ingham and Bericat also point out that because Red Hat had a long history with the Eclipse Foundation, they were very familiar and comfortable with the way Eclipse IoT operates. <p></p>
+“The Eclipse name has real credibility in the market,” adds Giuseppe Surace, chief product and marketing officer at Eurotech. “There’s huge value behind that because it means our customers immediately trust the platform. They know this is production-level software that has been thoroughly tested and proven in real-world deployments.” </p>
+
+<p>Software Contributions Provide Essential Building Blocks Surace and his colleagues at Eurotech believe so strongly in the value of the Eclipse IoT community, the company contributed the code for two key software modules that eventually became part of the end-to-end IoT architecture developed by the three companies. “We wanted to make it easier for our customers to have access to certain technologies and the only way for a company our size to do that is through open source,” he explains. “Eclipse IoT was the best fit for us in terms of our size and sharing our ideas and goals.”</p>
+
+<p>When Eurotech contributed the first of its software modules in 2014, the software already incorporated open source code from Red Hat. This fact made the two companies natural collaborators. That software became known as <a href="https://www.eclipse.org/kura/" target="_blank">Eclipse Kura</a> and it offers API access to the hardware interfaces on IoT gateway devices.</p>
+
+<p>In 2016, Eurotech contributed the software that became <a href="https://www.eclipse.org/kapua/" target="_blank">Eclipse Kapua</a>, which provides the services needed to manage IoT gateways and smart edge devices. Kapua also includes Red Hat contributions and is another key component in the end-to-end IoT architecture.</p>
+
+<p><a href="https://www.eclipse.org/hono/" target="_blank">Eclipse Hono</a> includes contributions from Red Hat, Bosch, Eurotech, and other companies, and also plays an important role in the end-to-end IoT architecture. This collaborative project provides telemetry and event APIs to securely ingest large volumes of sensor data. It also provides APIs for integration with existing device and credentials management systems.</p>
+
+<p>Because an open source approach enables collaboration across communities, the team was also able to add Apache Kafka, which provides a distributed streaming platform for events, in response to requests from potential customers.</p>
+
+<h2 class="purple">Joint Effort Brings New Freedom and Flexibility to IoT Deployments</h2>
+
+<p>With easy access to the Eclipse IoT community and existing, open source software components, the three companies were able to jump-start development efforts. “When you have an architectural blueprint and software components that are integrated and tested, you can confidently tell customers they’ll have a demo or a proof of concept in a week. And that’s a game changer,” says Red Hat’s Bericat.</p>
+
+<p>The modular, open source IoT architecture gives the companies’ customers the flexibility to run IoT services in different locations, and move them as needed. They can also take advantage of hybrid cloud approaches that allow them to run some components on-premises and others in the cloud.</p>
+
+<p>In addition, because customers are not locked into a particular vendor, platform, or proprietary technologies, they have the freedom to add or change functionality as new capabilities become available and their business goals evolve.</p>
+
+<p>The strong commitment to collaboration and trust that each company embraced to initially develop the end-to-end IoT architecture continues to benefit customers as they execute their IoT deployments.</p>
+
+<p>Each customer partners with only one of the companies, dramatically simplifying solution development. Any inter-company interactions needed to resolve customer issues happen behind the scenes. To stay coordinated, the three companies meet weekly to discuss the joint sales pipeline and customer support initiatives. They also provide joint training for customers and systems integrators.</p>
+
+<p>“We’re not a single company, but we work like one,” says Eurotech’s Surace. “And that’s only possible because we trust and believe in our open source DNA. There is no other way. I really can’t see this working between companies with proprietary software.”</p>
+Eclipse IoT Projects in the End-To-End Solution
+
+<h2 class="purple">Eclipse IoT Projects in the End-To-End Solution</h2>
+
+<p>The end-to-end IoT architecture developed by Red Hat, Eurotech, and Cloudera leverages
+several modular, open source software components, including:</p>
+<ul>
+<li><a href="https://www.eclipse.org/kura/" target="_blank">Eclipse Kura</a> offers API access to the hardware interfaces on IoT gateway devices.</li>
+<li><a href="https://www.eclipse.org/kapua/" target="_blank">Eclipse Kapua</a> provides the services needed to manage IoT gateways and smart edge devices.</li>
+<li><a href="https://www.eclipse.org/hono/" target="_blank">Eclipse Hono</a> provides telemetry and event APIs to securely ingest large volumes of sensor data.</li>
+</ul>
+    </div>
+</div>
+</p>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="third row-fluid">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-12" style="margin-top: -3em;">
+        
+      </div>
+    </div>
+  </section>
+</main>
+
+  
+  
+<footer id="solstice-footer">
+  <div class="container">
+    <div class="row">
+      <section class="col-sm-3 hidden-print" id="footer-eclipse-foundation">
+        <h2 class="section-title" style="color:#fff;">Eclipse Foundation</h2>
+        <ul class="nav">
+          <li><a href="https://www.eclipse.org/org/">About Us</a></li>
+          <li><a href="https://www.eclipse.org/org/foundation/contact.php">Contact
+              Us</a></li>
+          <li><a href="https://www.eclipse.org/donate">Donate</a></li>
+          <li><a href="https://www.eclipse.org/org/documents/">Governance</a></li>
+          <li><a href="https://www.eclipse.org/artwork/">Logo and
+              Artwork</a></li>
+          <li><a
+            href="https://www.eclipse.org/org/foundation/directors.php"
+          >Board of Directors</a></li>
+        </ul>
+      </section>
+      <section class="col-sm-3 hidden-print" id="footer-legal">
+        <h2 class="section-title" style="color:#fff;">Legal</h2>
+        <ul class="nav">
+          <li><a href="https://www.eclipse.org/legal/privacy.php">Privacy
+              Policy</a></li>
+          <li><a href="https://www.eclipse.org/legal/termsofuse.php">Terms
+              of Use</a></li>
+          <li><a href="https://www.eclipse.org/legal/copyright.php">Copyright
+              Agent</a></li>
+          <li><a href="https://www.eclipse.org/legal/epl-2.0/">Eclipse
+              Public License</a></li>
+          <li><a href="https://www.eclipse.org/legal/">Legal Resources
+          </a></li>
+        </ul>
+      </section>
+      <section class="col-sm-3 hidden-print" id="footer-useful-links">
+        <h2 class="section-title" style="color:#fff;">Useful Links</h2>
+        <ul class="nav">
+          <li><a href="https://bugs.eclipse.org/bugs/">Report a Bug</a></li>
+          <li><a href="//help.eclipse.org/">Documentation</a></li>
+          <li><a href="https://www.eclipse.org/contribute/">How to
+              Contribute</a></li>
+          <li><a href="https://www.eclipse.org/mail/">Mailing Lists</a></li>
+          <li><a href="https://www.eclipse.org/forums/">Forums</a></li>
+          <li><a href="//marketplace.eclipse.org">Marketplace</a></li>
+        </ul>
+      </section>
+      <section class="col-sm-3 hidden-print" id="footer-other">
+        <h2 class="section-title" style="color:#fff;">Other</h2>
+        <ul class="nav">
+          <li><a href="https://www.eclipse.org/ide/">IDE and Tools</a></li>
+          <li><a href="https://www.eclipse.org/projects">Community of
+              Projects</a></li>
+          <li><a href="https://www.eclipse.org/org/workinggroups/">Working
+              Groups</a></li>
+          <li><a href="https://www.eclipse.org/org/research/">Research@Eclipse</a></li>
+          <li><a href="https://status.eclipse.org">Service Status</a></li>
+        </ul>
+      </section>
+      <div class="col-sm-12 margin-top-20">
+        <div class="row">
+          <div id="copyright" class="col-md-8">
+            <p id="copyright-text" style="color:#fff;">Copyright © Eclipse Foundation, Inc. All
+              Rights Reserved.</p>
+          </div>
+          <div class="col-md-4 social-media">
+            <ul class="list-inline text-right">
+              <li><a class="social-media-link fa-stack fa-lg"
+                href="https://twitter.com/EclipseIoT"
+              > <i class="fa fa-circle-thin fa-stack-2x"></i> <i
+                  class="fa fa-twitter fa-stack-1x"
+                ></i>
+              </a></li>
+              <li><a class="social-media-link fa-stack fa-lg"
+                href="https://www.facebook.com/eclipseiot"
+              > <i class="fa fa-circle-thin fa-stack-2x"></i> <i
+                  class="fa fa-facebook fa-stack-1x"
+                ></i>
+              </a></li>
+              <li><a class="social-media-link fa-stack fa-lg"
+                href="https://www.youtube.com/playlist?list=PLy7t4z5SYNaRorMpk1txiehpkyeI0JLn"
+              > <i class="fa fa-circle-thin fa-stack-2x"></i> <i
+                  class="fa fa-youtube fa-stack-1x"
+                ></i>
+              </a></li>
+              <li><a class="social-media-link fa-stack fa-lg"
+                href="https://www.linkedin.com/company/eclipse-foundation"
+              > <i class="fa fa-circle-thin fa-stack-2x"></i> <i
+                  class="fa fa-linkedin fa-stack-1x"
+                ></i>
+              </a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+<script src="https://iot.eclipse.org/assets/js/main.js"></script>
+
+
+  
+</body>
+</html>
+
