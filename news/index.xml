@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerating Enterprise IoT Solution Development</title>
+      <link>https://iot.eclipse.org/news/2019-05-27-industry-leaders-red-hat-eurotech-and-cloudera-join-forces-eclipse-foundation/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-05-27-industry-leaders-red-hat-eurotech-and-cloudera-join-forces-eclipse-foundation/</guid>
+      <description>To overcome common challenges and provide their customers with an end-to-end Internet of Things (IoT) solution, three industry leaders, Red Hat, Eurotech, and Cloudera turned to the Eclipse Foundation’s Eclipse IoT Working Group. The results of their joint effort give enterprises the freedom and flexibility to take full advantage of IoT today and to continue advancing their IoT strategy as new capabilities emerge and business goals evolve. Read Jameka&amp;rsquo;s blog and explore this Eclipse IoT success story today!</description>
+    </item>
     
     <item>
       <title>Register for Eclipse IoT Day Paris Saclay 2019</title>
