@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EclipseCon Europe 2019: Call for Papers Now Open! Submit Your Talk Today!</title>
+      <link>https://iot.eclipse.org/news/2019-06-11-eclipsecon-europe-call-for-papers-open/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-06-11-eclipsecon-europe-call-for-papers-open/</guid>
+      <description>EclipseCon Europe is the leading conference for developers, architects, and open source business leaders to learn about Eclipse technologies, share best practices, and more. Taking in place in Ludwigsburg, Germany, October 21-24, 2019, ECE 2019 is our biggest event of the year and connects the Eclipse ecosystem and the industry’s leading minds under one roof. We are pleased to once again co-locate with the OSGi Alliance Community Event, adding more breadth and expertise to the program.</description>
+    </item>
     
     <item>
       <title>Accelerating Enterprise IoT Solution Development</title>
