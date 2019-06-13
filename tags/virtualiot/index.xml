@@ -8,10 +8,46 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Thu, 12 Oct 2017 15:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/tags/virtualiot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>YAKS: A Distributed and Heterogeneous Key-value Store for IoT | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</guid>
+      <description>We introduce YAKS which is actually not « Yet Another Key-value Store » per se, but a framework offering a unified view similar to a key-value store of distributed and heterogeneous data storages. A YAKS infrastructure allows the deployment of various data storages at any point of the system (cloud, edge or in the devices themselves) and to query or subscribe to the data from any point of the system in a location-transparent way.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Trend Toward the Edge | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-27-exploring-trend-toward-edge/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-27-exploring-trend-toward-edge/</guid>
+      <description>Edge computing is rapidly on the rise. In this Meetup, we will explore the business drivers, technological changes, and global trends that are making edge computing the next must-have infrastructure. We will discuss the challenges that make edge computing unique in relation to cloud and data center. We will finish our exploration with real-world use cases from a variety of industries, showing how edge computing results in immediate business opportunities that you can leverage.</description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing IIoT with Sparkplug and Eclipse Tahu - Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</guid>
+      <description>In this session, Wes &amp;amp; Chad will explain the history, concepts, and reasoning behind the need for and creation of the Sparkplug specification. They will cover the technical details of Sparkplug and also how this ultimately lead to the creation of the Eclipse Tahu project. They will also give a brief demonstration of Cirrus Link Solutions Sparkplug powered MQTT modules showing how this technology can and is being used in industry today.</description>
+    </item>
+    
+    <item>
+      <title>Lighting Solution Using the Eclipse Kapua and Eclipse Kura Platforms | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</guid>
+      <description>We followed the Eclipse IoT software evolution and found it appropriate to incorporate it in our software architecture. We implemented our solution using two main Eclipse projects, namely Eclipse Kapua and Eclipse Kura. Our end-to-end architecture involves these two modules at its core, forming the most essential parts of our lighting solution.</description>
+    </item>
     
     <item>
       <title>Open IoT Challenge 4.0 - Video</title>

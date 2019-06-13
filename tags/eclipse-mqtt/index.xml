@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Mqtt on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/eclipse-mqtt/</link>
+    <description>Recent content in Eclipse Mqtt on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/eclipse-mqtt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Eclipse MQTT &amp; Sparkplug as your IIoT Digital Transformation Toolkit | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</guid>
+      <description>This presentation presents the combination of existing MQTT message transport technologies provided by the Eclipse Paho IoT technologies combined with the Eclipse Tahu technology in making this technology applicable to the OT sector by defining the MQTT semantics of Topic Namespace, Process Variable centric Payloads and State Awareness of MQTT but applying that to IT-centric requirements of OT tag metrics and context.</description>
+    </item>
+    
+  </channel>
+</rss>

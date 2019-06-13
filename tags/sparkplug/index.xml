@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sparkplug on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/sparkplug/</link>
+    <description>Recent content in Sparkplug on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/sparkplug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Eclipse MQTT &amp; Sparkplug as your IIoT Digital Transformation Toolkit | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</guid>
+      <description>This presentation presents the combination of existing MQTT message transport technologies provided by the Eclipse Paho IoT technologies combined with the Eclipse Tahu technology in making this technology applicable to the OT sector by defining the MQTT semantics of Topic Namespace, Process Variable centric Payloads and State Awareness of MQTT but applying that to IT-centric requirements of OT tag metrics and context.</description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing IIoT with Sparkplug and Eclipse Tahu - Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</guid>
+      <description>In this session, Wes &amp;amp; Chad will explain the history, concepts, and reasoning behind the need for and creation of the Sparkplug specification. They will cover the technical details of Sparkplug and also how this ultimately lead to the creation of the Eclipse Tahu project. They will also give a brief demonstration of Cirrus Link Solutions Sparkplug powered MQTT modules showing how this technology can and is being used in industry today.</description>
+    </item>
+    
+  </channel>
+</rss>

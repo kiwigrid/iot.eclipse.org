@@ -8,10 +8,118 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Thu, 12 Oct 2017 15:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/resources/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Applying Machine Learning to IoT Use Cases with Eclipse Deeplearning4j | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-machine-learning-with-eclipse-deeplearning4j/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-machine-learning-with-eclipse-deeplearning4j/</guid>
+      <description>In this talk, we will discuss high-level machine learning use cases for IoT, provide an overview of the Eclipse Deeplearning4j ecosystem of tools, and tie it all together with a couple of real-life examples. This talk is aimed at Business Analysts and Solution Architects seeking ideas and inspiration for applying machine learning to IoT.</description>
+    </item>
+    
+    <item>
+      <title>Developing IoT Applications Using Intel® System Studio | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</guid>
+      <description>Intel® System Studio is based on the Eclipse CDT project and offers a comprehensive set of tools under a free and renewable licensing model. This software suite allows you to build, debug, analyze and optimize applications and can be used throughout the entire development cycle from hardware bring-up to deploying the final product. During this presentation, we will introduce you to Intel® System Studio and show how to develop and debug IoT and systems applications.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse VOLTTRON - Overview of the Platform | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-eclipse-volttron-overview-of-the-platform/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-eclipse-volttron-overview-of-the-platform/</guid>
+      <description>Eclipse VOLTTRON provides an environment for agent execution and serves as a single point of contact for interfacing with devices (rooftop units, building systems, meters, etc.), external resources, and platform services such as data archival and retrieval. VOLTTRON applications are referred to as agents since VOLTTRON provides an agent-based programming paradigm to ease application development and minimize the lines of code that need to be written by domain experts such as buildings engineers.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Trend Toward the Edge | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-exploring-trend-toward-edge/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-exploring-trend-toward-edge/</guid>
+      <description>Edge computing is rapidly on the rise. In this Meetup, we will explore the business drivers, technological changes, and global trends that are making edge computing the next must-have infrastructure. We will discuss the challenges that make edge computing unique in relation to cloud and data center. We will finish our exploration with real-world use cases from a variety of industries, showing how edge computing results in immediate business opportunities that you can leverage.</description>
+    </item>
+    
+    <item>
+      <title>State of the Union - Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</guid>
+      <description>Where are we coming from? Where are we? Where are we going? In this presentation, Frédéric Desbiens, IoT and Edge Computing Program Manager at the Eclipse Foundation, will share with you what happened in the Eclipse IoT Ecosystem in the last year and what is the Foundation&amp;rsquo;s roadmap for the future. Learn about major project releases. Discover new projects such as ioFog, fog05 and Sparkplug. Hear about our new and upcoming working groups.</description>
+    </item>
+    
+    <item>
+      <title>The MRAA and UPM Eclipse IoT Projects | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</guid>
+      <description>This presentation focuses primarily on the MRAA and UPM middleware projects which have been a part of the Intel IoT Developer Kits since day 1 and are now proudly joining the Eclipse IoT community. The MRAA library provides an abstraction layer for several Intel and non-Intel IoT platforms, offering C/C++, Java, JavaScript, and Python bindings to the physical pins and buses. This is subsequently used by the UPM sensor library for exposing standardized APIs intended to simplify the interaction between developers and peripherals, with virtually over 400 different specialized sensors, actuators and radio modules currently supported as part of the project.</description>
+    </item>
+    
+    <item>
+      <title>Using Eclipse MQTT &amp; Sparkplug as your IIoT Digital Transformation Toolkit | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</guid>
+      <description>This presentation presents the combination of existing MQTT message transport technologies provided by the Eclipse Paho IoT technologies combined with the Eclipse Tahu technology in making this technology applicable to the OT sector by defining the MQTT semantics of Topic Namespace, Process Variable centric Payloads and State Awareness of MQTT but applying that to IT-centric requirements of OT tag metrics and context.</description>
+    </item>
+    
+    <item>
+      <title>Which OS/RTOS makes sense for your Constrained Device? | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-which-os-rtos-makes-sense-for-your-constrained-device/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-which-os-rtos-makes-sense-for-your-constrained-device/</guid>
+      <description>This talk will survey the current open source options for an operating system to use (like Linux, FreeRTOS, Zephyr, mbedOS, RIOT, NuttX, etc.) in your IoT Constrained Device Stack. Factors to consider in selection include chip/hardware support, licensing, footprint, community health, open source best practices, security support as well as safety certifications available, all play roles.</description>
+    </item>
+    
+    <item>
+      <title>YAKS: A Distributed and Heterogeneous Key-value Store for IoT | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</guid>
+      <description>We introduce YAKS which is actually not « Yet Another Key-value Store » per se, but a framework offering a unified view similar to a key-value store of distributed and heterogeneous data storages. A YAKS infrastructure allows the deployment of various data storages at any point of the system (cloud, edge or in the devices themselves) and to query or subscribe to the data from any point of the system in a location-transparent way.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Trend Toward the Edge | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-27-exploring-trend-toward-edge/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-27-exploring-trend-toward-edge/</guid>
+      <description>Edge computing is rapidly on the rise. In this Meetup, we will explore the business drivers, technological changes, and global trends that are making edge computing the next must-have infrastructure. We will discuss the challenges that make edge computing unique in relation to cloud and data center. We will finish our exploration with real-world use cases from a variety of industries, showing how edge computing results in immediate business opportunities that you can leverage.</description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing IIoT with Sparkplug and Eclipse Tahu - Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</guid>
+      <description>In this session, Wes &amp;amp; Chad will explain the history, concepts, and reasoning behind the need for and creation of the Sparkplug specification. They will cover the technical details of Sparkplug and also how this ultimately lead to the creation of the Eclipse Tahu project. They will also give a brief demonstration of Cirrus Link Solutions Sparkplug powered MQTT modules showing how this technology can and is being used in industry today.</description>
+    </item>
+    
+    <item>
+      <title>Lighting Solution Using the Eclipse Kapua and Eclipse Kura Platforms | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</guid>
+      <description>We followed the Eclipse IoT software evolution and found it appropriate to incorporate it in our software architecture. We implemented our solution using two main Eclipse projects, namely Eclipse Kapua and Eclipse Kura. Our end-to-end architecture involves these two modules at its core, forming the most essential parts of our lighting solution.</description>
+    </item>
     
     <item>
       <title>Open IoT Challenge 4.0 - Video</title>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tahu on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/tahu/</link>
+    <description>Recent content in Tahu on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/tahu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revolutionizing IIoT with Sparkplug and Eclipse Tahu - Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-03-13-revolutionizing-iiot-with-sparkplug-tahu/</guid>
+      <description>In this session, Wes &amp;amp; Chad will explain the history, concepts, and reasoning behind the need for and creation of the Sparkplug specification. They will cover the technical details of Sparkplug and also how this ultimately lead to the creation of the Eclipse Tahu project. They will also give a brief demonstration of Cirrus Link Solutions Sparkplug powered MQTT modules showing how this technology can and is being used in industry today.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/solutions/</link>
+    <description>Recent content in Solutions on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Applying Machine Learning to IoT Use Cases with Eclipse Deeplearning4j | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-machine-learning-with-eclipse-deeplearning4j/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-machine-learning-with-eclipse-deeplearning4j/</guid>
+      <description>In this talk, we will discuss high-level machine learning use cases for IoT, provide an overview of the Eclipse Deeplearning4j ecosystem of tools, and tie it all together with a couple of real-life examples. This talk is aimed at Business Analysts and Solution Architects seeking ideas and inspiration for applying machine learning to IoT.</description>
+    </item>
+    
+    <item>
+      <title>Developing IoT Applications Using Intel® System Studio | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</guid>
+      <description>Intel® System Studio is based on the Eclipse CDT project and offers a comprehensive set of tools under a free and renewable licensing model. This software suite allows you to build, debug, analyze and optimize applications and can be used throughout the entire development cycle from hardware bring-up to deploying the final product. During this presentation, we will introduce you to Intel® System Studio and show how to develop and debug IoT and systems applications.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse VOLTTRON - Overview of the Platform | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-eclipse-volttron-overview-of-the-platform/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-eclipse-volttron-overview-of-the-platform/</guid>
+      <description>Eclipse VOLTTRON provides an environment for agent execution and serves as a single point of contact for interfacing with devices (rooftop units, building systems, meters, etc.), external resources, and platform services such as data archival and retrieval. VOLTTRON applications are referred to as agents since VOLTTRON provides an agent-based programming paradigm to ease application development and minimize the lines of code that need to be written by domain experts such as buildings engineers.</description>
+    </item>
+    
+    <item>
+      <title>Using Eclipse MQTT &amp; Sparkplug as your IIoT Digital Transformation Toolkit | Eclipse IoT Day SC 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-using-eclipse-mqtt-sparkplug-iiot-digital-transformation-toolkit/</guid>
+      <description>This presentation presents the combination of existing MQTT message transport technologies provided by the Eclipse Paho IoT technologies combined with the Eclipse Tahu technology in making this technology applicable to the OT sector by defining the MQTT semantics of Topic Namespace, Process Variable centric Payloads and State Awareness of MQTT but applying that to IT-centric requirements of OT tag metrics and context.</description>
+    </item>
+    
+  </channel>
+</rss>

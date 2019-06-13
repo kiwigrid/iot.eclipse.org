@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel System Studio on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/intel-system-studio/</link>
+    <description>Recent content in Intel System Studio on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/intel-system-studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing IoT Applications Using Intel® System Studio | Eclipse IoT Day Santa Clara 2019</title>
+      <link>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-developing-iot-applications-using-intel-system-studio/</guid>
+      <description>Intel® System Studio is based on the Eclipse CDT project and offers a comprehensive set of tools under a free and renewable licensing model. This software suite allows you to build, debug, analyze and optimize applications and can be used throughout the entire development cycle from hardware bring-up to deploying the final product. During this presentation, we will introduce you to Intel® System Studio and show how to develop and debug IoT and systems applications.</description>
+    </item>
+    
+  </channel>
+</rss>

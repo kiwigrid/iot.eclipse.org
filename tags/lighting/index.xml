@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lighting on Eclipse IoT</title>
+    <link>https://iot.eclipse.org/tags/lighting/</link>
+    <description>Recent content in Lighting on Eclipse IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
+    <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iot.eclipse.org/tags/lighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lighting Solution Using the Eclipse Kapua and Eclipse Kura Platforms | Virtual IoT</title>
+      <link>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/resources/2019-02-21-lighting-solution-using-kapua-and-kura-platforms/</guid>
+      <description>We followed the Eclipse IoT software evolution and found it appropriate to incorporate it in our software architecture. We implemented our solution using two main Eclipse projects, namely Eclipse Kapua and Eclipse Kura. Our end-to-end architecture involves these two modules at its core, forming the most essential parts of our lighting solution.</description>
+    </item>
+    
+  </channel>
+</rss>
