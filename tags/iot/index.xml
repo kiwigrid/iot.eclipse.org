@@ -51,19 +51,19 @@
     
     <item>
       <title>State of the Union - Eclipse IoT Day Santa Clara 2019</title>
-      <link>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</link>
+      <link>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union-eclipse-iot-day-santa-clara/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union-eclipse-iot-day-santa-clara/</guid>
       <description>Where are we coming from? Where are we? Where are we going? In this presentation, Frédéric Desbiens, IoT and Edge Computing Program Manager at the Eclipse Foundation, will share with you what happened in the Eclipse IoT Ecosystem in the last year and what is the Foundation&amp;rsquo;s roadmap for the future. Learn about major project releases. Discover new projects such as ioFog, fog05 and Sparkplug. Hear about our new and upcoming working groups.</description>
     </item>
     
     <item>
       <title>The MRAA and UPM Eclipse IoT Projects | Eclipse IoT Day Santa Clara 2019</title>
-      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</link>
+      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</guid>
       <description>This presentation focuses primarily on the MRAA and UPM middleware projects which have been a part of the Intel IoT Developer Kits since day 1 and are now proudly joining the Eclipse IoT community. The MRAA library provides an abstraction layer for several Intel and non-Intel IoT platforms, offering C/C++, Java, JavaScript, and Python bindings to the physical pins and buses. This is subsequently used by the UPM sensor library for exposing standardized APIs intended to simplify the interaction between developers and peripherals, with virtually over 400 different specialized sensors, actuators and radio modules currently supported as part of the project.</description>
     </item>
     
@@ -87,10 +87,10 @@
     
     <item>
       <title>YAKS: A Distributed and Heterogeneous Key-value Store for IoT | Virtual IoT</title>
-      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</link>
+      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed-heterogeneous-key-value-store-iot/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed-heterogeneous-key-value-store-iot/</guid>
       <description>We introduce YAKS which is actually not « Yet Another Key-value Store » per se, but a framework offering a unified view similar to a key-value store of distributed and heterogeneous data storages. A YAKS infrastructure allows the deployment of various data storages at any point of the system (cloud, edge or in the devices themselves) and to query or subscribe to the data from any point of the system in a location-transparent way.</description>
     </item>
     

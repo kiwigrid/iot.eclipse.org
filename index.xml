@@ -200,19 +200,19 @@ If your company is looking to connect with experienced developers and users of t
     
     <item>
       <title>State of the Union - Eclipse IoT Day Santa Clara 2019</title>
-      <link>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</link>
+      <link>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union-eclipse-iot-day-santa-clara/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union--eclipse-iot-day-santa-clara/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-state-of-the-union-eclipse-iot-day-santa-clara/</guid>
       <description>Where are we coming from? Where are we? Where are we going? In this presentation, Frédéric Desbiens, IoT and Edge Computing Program Manager at the Eclipse Foundation, will share with you what happened in the Eclipse IoT Ecosystem in the last year and what is the Foundation&amp;rsquo;s roadmap for the future. Learn about major project releases. Discover new projects such as ioFog, fog05 and Sparkplug. Hear about our new and upcoming working groups.</description>
     </item>
     
     <item>
       <title>The MRAA and UPM Eclipse IoT Projects | Eclipse IoT Day Santa Clara 2019</title>
-      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</link>
+      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</guid>
       <description>This presentation focuses primarily on the MRAA and UPM middleware projects which have been a part of the Intel IoT Developer Kits since day 1 and are now proudly joining the Eclipse IoT community. The MRAA library provides an abstraction layer for several Intel and non-Intel IoT platforms, offering C/C++, Java, JavaScript, and Python bindings to the physical pins and buses. This is subsequently used by the UPM sensor library for exposing standardized APIs intended to simplify the interaction between developers and peripherals, with virtually over 400 different specialized sensors, actuators and radio modules currently supported as part of the project.</description>
     </item>
     
@@ -282,10 +282,10 @@ As we have several international speakers, the conference will happen in English
     
     <item>
       <title>YAKS: A Distributed and Heterogeneous Key-value Store for IoT | Virtual IoT</title>
-      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</link>
+      <link>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed-heterogeneous-key-value-store-iot/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed--heterogeneous-key-value-store-iot/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-04-17-yaks-distributed-heterogeneous-key-value-store-iot/</guid>
       <description>We introduce YAKS which is actually not « Yet Another Key-value Store » per se, but a framework offering a unified view similar to a key-value store of distributed and heterogeneous data storages. A YAKS infrastructure allows the deployment of various data storages at any point of the system (cloud, edge or in the devices themselves) and to query or subscribe to the data from any point of the system in a location-transparent way.</description>
     </item>
     
@@ -791,10 +791,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Activ-IoTy Timekeeping - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-timekeeping---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-timekeeping-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-timekeeping---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-timekeeping-final-report/</guid>
       <description>Watch the video summarizing all the work done in this project in just 3 minutes.</description>
     </item>
     
@@ -809,154 +809,154 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Aquaponics - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/aquaponics---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/aquaponics-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/aquaponics---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/aquaponics-final-report/</guid>
       <description>In this system that we are going to set up, a water pump, powered by solar panels, will be used to transport the water with fish waste to the plants.</description>
     </item>
     
     <item>
       <title>Autonomy of Things - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things-final-report/</guid>
       <description>Three months ago i took the chance to make a commitment — to realise an idea i had for years. Long before it became known as the Internet-Of-Things, i connected devices with wires and radio frequency.</description>
     </item>
     
     <item>
       <title>CISSOS - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cissos---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cissos-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cissos---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cissos-final-report/</guid>
       <description>We wanted to investigate how open-source software from the Eclipse IoT community can be used to build a full (I)IoT solution-stack from sensor to visualization based on the classical three tier architecture for IoT.</description>
     </item>
     
     <item>
       <title>Cloud Oscilloscope - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-final-report/</guid>
       <description>Welcome to our journey to Open IoT Challenge by Eclipse! Last December our proposal was chosen from 70 proposal to participate. Also we&amp;rsquo;ve got a promocode for electronics and started to work.</description>
     </item>
     
     <item>
       <title>IIOT2K IoT Framework - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/iiot2k-iot-framework---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/iiot2k-iot-framework-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/iiot2k-iot-framework---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/iiot2k-iot-framework-final-report/</guid>
       <description>I start to design and write the IIOT2K framework and share it with to you in conjunction with Eclipse IoT challenge 4.0. I hope that my framework helps IoT enthusiasts to realize there IoT projects in easily way. I would happy for suggestions for this project.</description>
     </item>
     
     <item>
       <title>MoDeS3 - The Smart City - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3---the-smart-city---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3-the-smart-city-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3---the-smart-city---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3-the-smart-city-final-report/</guid>
       <description>We continued the MoDeS3 project (which won third place in 2016) and we built a smart city on top of the physical architecture.</description>
     </item>
     
     <item>
       <title>OpenNMS - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/opennms---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/opennms-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/opennms---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/opennms-final-report/</guid>
       <description>The aim of this project is to use IoT pollution measurements as a compelling use case to prove a design for an MQTT plugin for OpenNMS.</description>
     </item>
     
     <item>
       <title>Poulpy - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/poulpy---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/poulpy-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/poulpy---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/poulpy-final-report/</guid>
       <description>Poulpy was born with the intent of creating a connected aquarium network all over the country so people can monitor their aquariums and learn more about marine life.</description>
     </item>
     
     <item>
       <title>Smart solar water heating (SWH) - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-final-report/</guid>
       <description>Smart solar water heating solution uses IoT and AI technologies to improve the efficiency of passive solar water heating system. This solution has been developed to take part in the Open IoT Challenge 4.0!</description>
     </item>
     
     <item>
       <title>SmartOASYS - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smartoasys---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smartoasys-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smartoasys---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smartoasys-final-report/</guid>
       <description>SmartOASYS is a dashboard for Water Monitoring system using IoT - PaaS</description>
     </item>
     
     <item>
       <title>Trusting IoT - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-final-report/</guid>
       <description>n this post, we make a similar journey through our participation in the Eclipse Open IoT Challenge 4.0 with the project trusted indoor positioning system for nursing homes.</description>
     </item>
     
     <item>
       <title>Trync - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-final-report/</guid>
       <description>Here I&amp;rsquo;m going to write the worst final report for Open IoT Challenge 4.0 (may be the worst one in the Open IoT challenge history too 😞). Because than writing how we got success I&amp;rsquo;m writing here how we got failed.</description>
     </item>
     
     <item>
       <title>What about you (WAY) - Final Report</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/what-about-you-way---final-report/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/what-about-you-way-final-report/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/what-about-you-way---final-report/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/what-about-you-way-final-report/</guid>
       <description>What About You (WAY) is a project which has an IoT theme, a social &amp;amp; enjoyable characteristic and open source technologies. It focuses on informing people about each other’s mood.</description>
     </item>
     
     <item>
       <title>Alya - Cloud voice recognition Alexa for alya-smart-mirror</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---cloud-voice-recognition-alexa-for-alya-smart-mirror/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-cloud-voice-recognition-alexa-for-alya-smart-mirror/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---cloud-voice-recognition-alexa-for-alya-smart-mirror/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-cloud-voice-recognition-alexa-for-alya-smart-mirror/</guid>
       <description>Alya can be integrated with Alexa using all the great built in capabilities of Alexa.</description>
     </item>
     
     <item>
       <title>Alya - Offline gesture recognition for alya-smart-mirror</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---offline-gesture-recognition-for-alya-smart-mirror/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-offline-gesture-recognition-for-alya-smart-mirror/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---offline-gesture-recognition-for-alya-smart-mirror/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-offline-gesture-recognition-for-alya-smart-mirror/</guid>
       <description>Sensor hub is one of alya’s features collects and shows user’s various sensor hub such as temperature, humidity, light, face detections, face demographics and much more.</description>
     </item>
     
     <item>
       <title>Alya - alya-smart-mirror as sensor hub for your home</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---alya-smart-mirror-as-sensor-hub-for-your-home/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-alya-smart-mirror-as-sensor-hub-for-your-home/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---alya-smart-mirror-as-sensor-hub-for-your-home/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-alya-smart-mirror-as-sensor-hub-for-your-home/</guid>
       <description>We will talk about the offline gesture recognition support of Aly. Now, Alya supports for now palm and fist gestures using Matrix creator.</description>
     </item>
     
     <item>
       <title>Alya - asm-app: a react native mobile app to configure alya-smart-mirror</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---asm-app-a-react-native-mobile-app-to-configure-alya-smart-mirror/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-asm-app-a-react-native-mobile-app-to-configure-alya-smart-mirror/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---asm-app-a-react-native-mobile-app-to-configure-alya-smart-mirror/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-asm-app-a-react-native-mobile-app-to-configure-alya-smart-mirror/</guid>
       <description>Let’s introduce our react native app “asm app” which is one of the main alya core component. Our app plays a major role in our project as it’s an intermediary between the end user and the backend as discussed before in “asm-backend”.</description>
     </item>
     
@@ -980,118 +980,118 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>ModeS3 - DDS and Xtext</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3---dds-and-xtext/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3-dds-and-xtext/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3---dds-and-xtext/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3-dds-and-xtext/</guid>
       <description>Code generation from state machines to DDS execution environment.</description>
     </item>
     
     <item>
       <title>ModeS3 - Our choice of DDS implementation: Vortex OpenSplice DDS</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3---our-choice-of-dds-implementation-vortex-opensplice-dds/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3-our-choice-of-dds-implementation-vortex-opensplice-dds/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3---our-choice-of-dds-implementation-vortex-opensplice-dds/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3-our-choice-of-dds-implementation-vortex-opensplice-dds/</guid>
       <description>After we had decided to use DDS for the communication between the components of our distributed system that we would like to manage, we had to choose the implementation of this middleware.</description>
     </item>
     
     <item>
       <title>Trusting IoT - Testing: Four, five, six</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---testing-four-five-six/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-testing-four-five-six/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---testing-four-five-six/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-testing-four-five-six/</guid>
       <description>We commented on Testing: One, two, three, that we would like to develop a software tool which would allow anyone to fine-tune his/her installation to a position as accurately as possible. This tool is ready and available in mide repository.</description>
     </item>
     
     <item>
       <title>Trync - How we connect Eclipse Kura gateway to a web application hosted on WildFly</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---how-we-connect-eclipse-kura-gateway-to-a-web-application-hosted-on-wildfly/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-how-we-connect-eclipse-kura-gateway-to-a-web-application-hosted-on-wildfly/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---how-we-connect-eclipse-kura-gateway-to-a-web-application-hosted-on-wildfly/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-how-we-connect-eclipse-kura-gateway-to-a-web-application-hosted-on-wildfly/</guid>
       <description>As we are using RaspberryPI hardware running Eclipse Kura on top of Raspbian OS as Trync gateway we have to connect it to the Trync Dashboad, a web application developed with Java hosted on WildFly application server.</description>
     </item>
     
     <item>
       <title>Cloud Oscilloscope - Build Scheme and components</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---build-scheme-and-components/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-build-scheme-and-components/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---build-scheme-and-components/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-build-scheme-and-components/</guid>
       <description>You need a number of components to assemble Cloud Oscilloscope. Most of them can be bought at the nearest radio store or on AliExpress.</description>
     </item>
     
     <item>
       <title>Alya - Cloud-based Face Recognition for Alya Smart Mirror</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---cloud-based-face-recognition-for-alya-smart-mirror/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-cloud-based-face-recognition-for-alya-smart-mirror/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---cloud-based-face-recognition-for-alya-smart-mirror/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-cloud-based-face-recognition-for-alya-smart-mirror/</guid>
       <description>Alongside with the voice recognition support, Alya supports personalization through face recognition, in this article we will go through cloud-based face recognition in Alya.</description>
     </item>
     
     <item>
       <title>Alya - Offline voice recognition for “alya-smart-mirror</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---offline-voice-recognition-for-alya-smart-mirror/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-offline-voice-recognition-for-alya-smart-mirror/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---offline-voice-recognition-for-alya-smart-mirror/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-offline-voice-recognition-for-alya-smart-mirror/</guid>
       <description>Having a voice recognition support in ASM is part of the core services which is used to recognize the voice commands given by the user. We selected an offline voice recognition service since it is less expensive and requires less configurations.</description>
     </item>
     
     <item>
       <title>ModeS3 - SmartCity Intro</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3---smartcity-intro/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/modes3-smartcity-intro/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3---smartcity-intro/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/modes3-smartcity-intro/</guid>
       <description>MoDeS3 – Smart City project integrates these innovative solutions into a common framework and testbed.</description>
     </item>
     
     <item>
       <title>ActivIoTy - Checkpoints on the Move?</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty---checkpoints-on-the-move/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty-checkpoints-on-the-move/</link>
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty---checkpoints-on-the-move/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty-checkpoints-on-the-move/</guid>
       <description>We are on the last mile of the challenge, and I’m exploring new ways to enrich the user experience of the platform, adding new features.</description>
     </item>
     
     <item>
       <title>Trusting IoT - Parallelizing IOTA transactions in Kura</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---parallelizing-iota-transactions-in-kura/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-parallelizing-iota-transactions-in-kura/</link>
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---parallelizing-iota-transactions-in-kura/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-parallelizing-iota-transactions-in-kura/</guid>
       <description>What’s the fuss about? From now on, Jura is scalable in terms of locations stored in the tangle. How? Using IOTA’s workers.</description>
     </item>
     
     <item>
       <title>Autonomy of Things - Location Awareness in IoT with Beacon Technology</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things---location-awareness-in-iot-with-beacon-technology/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things-location-awareness-in-iot-with-beacon-technology/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things---location-awareness-in-iot-with-beacon-technology/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/autonomy-of-things-location-awareness-in-iot-with-beacon-technology/</guid>
       <description>In this article I’ll share the findings of my feasibility tests for implementing a location service with Bluetooth beacon using iOS and Linux-powered devices.</description>
     </item>
     
     <item>
       <title>Cloud Oscilloscope - Backend Architecture</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---backend-architecture/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-backend-architecture/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---backend-architecture/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-backend-architecture/</guid>
       <description>We&amp;rsquo;re working on a backend for our Cloud Oscilloscope project. On the last meetings we decided to use common technologies for IoT to connect our device with backend.</description>
     </item>
     
     <item>
       <title>Trusting IoT - The Race to the Tangle II: Teamwork</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---the-race-to-the-tangle-ii-teamwork/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-the-race-to-the-tangle-ii-teamwork/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---the-race-to-the-tangle-ii-teamwork/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-the-race-to-the-tangle-ii-teamwork/</guid>
       <description>This post is a continuation of the race to the tangle in which we discuss how we try to increase the number of transactions we make to the tangle with the hardware we have.</description>
     </item>
     
@@ -1106,37 +1106,37 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trync - Installing and configuring Mosquitto MQTT broker</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---installing-and-configuring-mosquitto-mqtt-broker/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-installing-and-configuring-mosquitto-mqtt-broker/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---installing-and-configuring-mosquitto-mqtt-broker/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-installing-and-configuring-mosquitto-mqtt-broker/</guid>
       <description>For communicating between Trync gateways (trync-g) and Trync main server we are using MQTT and we have chosen Mosquitto MQTT broker.</description>
     </item>
     
     <item>
       <title>Trync - Installing and configuring WildFly application server with a Let&#39;s Encrypt SSL/TLS certificate</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---installing-and-configuring-wildfly-application-server-with-a-lets-encrypt-ssl/tls-certificate/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-installing-and-configuring-wildfly-application-server-with-a-lets-encrypt-ssl/tls-certificate/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---installing-and-configuring-wildfly-application-server-with-a-lets-encrypt-ssl/tls-certificate/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-installing-and-configuring-wildfly-application-server-with-a-lets-encrypt-ssl/tls-certificate/</guid>
       <description>We are using WildFly application server for hosting Trync dashboard and its services written in Java. Following steps will describe how we configured WildFly on our DigitalOcean droplet running CentOS 7.4.</description>
     </item>
     
     <item>
       <title>Trync - Server infrastructure for Trync</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---server-infrastructure-for-trync/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-server-infrastructure-for-trync/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---server-infrastructure-for-trync/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-server-infrastructure-for-trync/</guid>
       <description>For deploying Trync dashboard and services we have choose a DigitalOcean droplet running CentOS 7.4.</description>
     </item>
     
     <item>
       <title>Trusting IoT - Testing: One, two, three</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---testing-one-two-three/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-testing-one-two-three/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---testing-one-two-three/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-testing-one-two-three/</guid>
       <description>This weekend we have met up in order to perform some experiments, and taking advantage of this meeting we are going to show you how to install Jura.</description>
     </item>
     
@@ -1151,37 +1151,37 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trusting IoT - Firma: In IOTA We Trust</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---firma-in-iota-we-trust/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-firma-in-iota-we-trust/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---firma-in-iota-we-trust/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-firma-in-iota-we-trust/</guid>
       <description>We are pleased to present Firma, the last part of Jura. “Firmar” is the Spanish word of the verb “to sign” and the translation of firma in English is &amp;ldquo;it signs&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>ActivIoTy - The (Activ-IoTy) Controller</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty---the-activ-ioty-controller/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty-the-activ-ioty-controller/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty---the-activ-ioty-controller/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty-the-activ-ioty-controller/</guid>
       <description>The Controller is a MQTT subscriber that processes the checkins performed on Checkpoints.</description>
     </item>
     
     <item>
       <title>Trusting IoT - Our Approach. Part II. Trusted IPS</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---our-approach.-part-ii.-trusted-ips/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-our-approach.-part-ii.-trusted-ips/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---our-approach.-part-ii.-trusted-ips/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-our-approach.-part-ii.-trusted-ips/</guid>
       <description>We have been waiting to post this for weeks. It is not because we are playing hard to get, we just wanted to see how far we could go :)</description>
     </item>
     
     <item>
       <title>Trusting IoT - The Race to the Tangle</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---the-race-to-the-tangle/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-the-race-to-the-tangle/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---the-race-to-the-tangle/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-the-race-to-the-tangle/</guid>
       <description>These days we are using the starter kit that we got for our proposal for the Eclipse Open IoT Challenge 4.0 to carry out different tests.</description>
     </item>
     
@@ -1196,19 +1196,19 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Alya - A React component for getting YouTube videos using voice</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya---a-react-component-for-getting-youtube-videos-using-voice/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/alya-a-react-component-for-getting-youtube-videos-using-voice/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya---a-react-component-for-getting-youtube-videos-using-voice/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/alya-a-react-component-for-getting-youtube-videos-using-voice/</guid>
       <description>A week ago, we have introduced our new project “Alya” in participation for Eclipse Open IoT Challenge , “Alya” is a modular personalized open-source smart mirror. In this blog, I am excited to talk about one of the core addons…</description>
     </item>
     
     <item>
       <title>ActivIoTy - Implementation of Low-Cost Activ-IoTy Checkpoint in Python</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty---implementation-of-low-cost-activ-ioty-checkpoint-in-python/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty-implementation-of-low-cost-activ-ioty-checkpoint-in-python/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty---implementation-of-low-cost-activ-ioty-checkpoint-in-python/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty-implementation-of-low-cost-activ-ioty-checkpoint-in-python/</guid>
       <description>This solution only needs a bluetooth input device connected to a Raspberry Pi, or similar.</description>
     </item>
     
@@ -1223,10 +1223,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trusting IoT - Ubica: An Indoor Positioning System</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---ubica-an-indoor-positioning-system/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-ubica-an-indoor-positioning-system/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---ubica-an-indoor-positioning-system/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-ubica-an-indoor-positioning-system/</guid>
       <description>Ubicar is the Spanish word of the verb “to locate“. The translation of ubica in English is “it locates“. Ubica is another part of Jura and its function is to locate BLE beacons, hereinafter beacons.</description>
     </item>
     
@@ -1241,19 +1241,19 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>ActivIoTy - IR Keypad on Arduino</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty---ir-keypad-on-arduino/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activioty-ir-keypad-on-arduino/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty---ir-keypad-on-arduino/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activioty-ir-keypad-on-arduino/</guid>
       <description>A system based on Infrared (IR) remote control, is not very reliable for our purpose since there must be a direct visual line between transmitter and receiver –likely TV remote controls. More than a real solution, this is a proof of concept.</description>
     </item>
     
     <item>
       <title>Trusting IoT - Graba: A BLE Beacons Recording System</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---graba-a-ble-beacons-recording-system/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-graba-a-ble-beacons-recording-system/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---graba-a-ble-beacons-recording-system/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-graba-a-ble-beacons-recording-system/</guid>
       <description>Grabar is the Spanish word of the verb &amp;ldquo;to record&amp;rdquo;. The translation of graba in English is “it records“. Graba is part of Jura and its function is to record datasets. It consists of two Kura’s plug-ins: iot.challenge.jura.graba and iot.challenge.jura.graba.web.</description>
     </item>
     
@@ -1268,19 +1268,19 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Activ-IoTy Checkpoint: UHF RFID &#43; RPi &#43; Paho for Python</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-checkpoint-uhf-rfid---rpi---paho-for-python/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-checkpoint-uhf-rfid-rpi-paho-for-python/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-checkpoint-uhf-rfid---rpi---paho-for-python/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-checkpoint-uhf-rfid-rpi-paho-for-python/</guid>
       <description>One of the most important pieces of Activ-IoTy is Checkpoints. This article features the implementation of a checkpoint based on a IND903 UHF RFID Reader, connected to a Raspberry Pi (or a Intel Up Squared).</description>
     </item>
     
     <item>
       <title>Trusting IoT - Faro: A Multimodal BLE Beacon</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---faro-a-multimodal-ble-beacon/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-faro-a-multimodal-ble-beacon/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---faro-a-multimodal-ble-beacon/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-faro-a-multimodal-ble-beacon/</guid>
       <description>Faro is the Spanish term for a lighthouse, as well as a multimodal Bluetooth Low Energy Beacon service for Eclipse Kura.</description>
     </item>
     
@@ -1304,10 +1304,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trusting IoT - Building Deployment Packages for Eclipse Kura</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---building-deployment-packages-for-eclipse-kura/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-building-deployment-packages-for-eclipse-kura/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---building-deployment-packages-for-eclipse-kura/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-building-deployment-packages-for-eclipse-kura/</guid>
       <description>OSGi is ideal for managing IoT gateways and we believe that it is a wise move that Eclipse Kura has been developed using it.</description>
     </item>
     
@@ -1322,37 +1322,37 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Smart solar water heating (SWH) - IoT gateway with Raspberry Pi using Eclipse Kura</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---iot-gateway-with-raspberry-pi-using-eclipse-kura/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-iot-gateway-with-raspberry-pi-using-eclipse-kura/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---iot-gateway-with-raspberry-pi-using-eclipse-kura/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-iot-gateway-with-raspberry-pi-using-eclipse-kura/</guid>
       <description>The gateway uses a Raspberry Pi with Eclipse Kura to run the application that controls the relay board, Eclipse Leshan to communicate with the sensor, and Eclipse Paho to communicate with the server.</description>
     </item>
     
     <item>
       <title>Activ-IoTy - new Video</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---new-video/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-new-video/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---new-video/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-new-video/</guid>
       <description>High level explanation of the objectives of Activ-IoTy, a personal project being developed for the Open IoT Challenge.</description>
     </item>
     
     <item>
       <title>Activ-IoTy - MQTT: Cornerstone of Activ-IoTy</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---mqtt-cornerstone-of-activ-ioty/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-mqtt-cornerstone-of-activ-ioty/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---mqtt-cornerstone-of-activ-ioty/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-mqtt-cornerstone-of-activ-ioty/</guid>
       <description>Activ-IoTy is based on the pub-sub paradigm. This means that some components (publishers or senders) send messages to a central point, called broker, that delivers the messages to other components (subscribers or receivers) interested in receiving the information send by the publishers…</description>
     </item>
     
     <item>
       <title>Trusting IoT - Preliminary results</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---preliminary-results/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-preliminary-results/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot---preliminary-results/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusting-iot-preliminary-results/</guid>
       <description>This has been a great week for us :). Our team consists of three computer engineers; all of us from different fields, with great interest and curiosity about IoT but inexperienced in it.</description>
     </item>
     
@@ -1367,10 +1367,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>CISSOS - Getting started with the Open IoT Challenge!</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cissos---getting-started-with-the-open-iot-challenge/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cissos-getting-started-with-the-open-iot-challenge/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cissos---getting-started-with-the-open-iot-challenge/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cissos-getting-started-with-the-open-iot-challenge/</guid>
       <description>Two months have passed since we handed in our topic for the Open IoT Challenge and now we (finally!) want to give an introduction to our project and what we want to (and have already) achieve(d).</description>
     </item>
     
@@ -1385,10 +1385,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trync - Setup development environment for ESP32 - Part 2</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---setup-development-environment-for-esp32---part-2/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-setup-development-environment-for-esp32-part-2/</link>
       <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---setup-development-environment-for-esp32---part-2/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-setup-development-environment-for-esp32-part-2/</guid>
       <description>In the first part we have already setup and configured ESP-IDF. So let&amp;rsquo;s do the code, compile and flash with an IDE. I have choose Eclipse IDE which is my favorite for a long time for Java, Atmel AVR and now ESP32 developments.</description>
     </item>
     
@@ -1403,10 +1403,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trync - Setup development environment for ESP32 - Part 1</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync---setup-development-environment-for-esp32---part-1/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trync-setup-development-environment-for-esp32-part-1/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync---setup-development-environment-for-esp32---part-1/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trync-setup-development-environment-for-esp32-part-1/</guid>
       <description>For Trync hardware development the key component (Trync agent or Trync-a in short) is ESP32 SoC microcontroller by Espressif.</description>
     </item>
     
@@ -1457,64 +1457,64 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Cloud Oscilloscope - Meet the team</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---meet-the-team/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-meet-the-team/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---meet-the-team/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-meet-the-team/</guid>
       <description>Happy New Year! I would like to take an opportunity and introduce our team.</description>
     </item>
     
     <item>
       <title>Activ-IoTy - Sports Timekeeping &#43; IoT for Eclipse Challenge</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---sports-timekeeping---iot-for-eclipse-challenge/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-sports-timekeeping-iot-for-eclipse-challenge/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty---sports-timekeeping---iot-for-eclipse-challenge/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/activ-ioty-sports-timekeeping-iot-for-eclipse-challenge/</guid>
       <description>To make running attractive among runners there are two important aspects to take into account: accurate/official timekeeping, and publication of comparable results for statistics and competition.</description>
     </item>
     
     <item>
       <title>Smart solar water heating (SWH) - IoT temperature sensor with ESP8266 using LWM2M (Eclipse Wakaama)</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---iot-temperature-sensor-with-esp8266-using-lwm2m-eclipse-wakaama/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-iot-temperature-sensor-with-esp8266-using-lwm2m-eclipse-wakaama/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---iot-temperature-sensor-with-esp8266-using-lwm2m-eclipse-wakaama/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-iot-temperature-sensor-with-esp8266-using-lwm2m-eclipse-wakaama/</guid>
       <description>The sensor uses an ESP8266 board with the protocol Lightweight M2M to communicate the temperature read by DS18B20 to the gateway.</description>
     </item>
     
     <item>
       <title>Smart solar water heating (SWH) - Build an Android app to control a Q7 Camera P2P WIFI</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---build-an-android-app-to-control-a-q7-camera-p2p-wifi/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-build-an-android-app-to-control-a-q7-camera-p2p-wifi/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---build-an-android-app-to-control-a-q7-camera-p2p-wifi/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-build-an-android-app-to-control-a-q7-camera-p2p-wifi/</guid>
       <description>This tutorial will teach you how to build an Android app to control a Q7 Camera P2P WIFI using the Android Studio development environment.</description>
     </item>
     
     <item>
       <title>Smart solar water heating (SWH) - Connect wan automatically at boot and after a disconnection on OpenWrt</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---connect-wan-automatically-at-boot-and-after-a-disconnection-on-openwrt/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-connect-wan-automatically-at-boot-and-after-a-disconnection-on-openwrt/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---connect-wan-automatically-at-boot-and-after-a-disconnection-on-openwrt/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-connect-wan-automatically-at-boot-and-after-a-disconnection-on-openwrt/</guid>
       <description>OpenWrt is an open source project for embedded operating system based on Linux, primarily used on embedded devices to route network traffic.</description>
     </item>
     
     <item>
       <title>Cloud Oscilloscope - Top 12</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---top-12/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-top-12/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---top-12/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-top-12/</guid>
       <description>We have became a TOP-12 Proposal at Eclipse Open IoT Challenge! Thanks to everyone who believed in us.</description>
     </item>
     
     <item>
       <title>little brother - Update</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---update/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-update/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---update/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-update/</guid>
       <description>“little brother” runs in two language VM’s on the Raspberry PI. The first, Pharo, I’ve discussed at some length. The second I haven’t, partly because it’s better known, but partly because the use case has become clearer during development. It is the Java VM, specifically used with OSGi in the form of Eclipse Kura.</description>
     </item>
     
@@ -1547,37 +1547,37 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Trusted IoT - Our Approach</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusted-iot---our-approach/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/trusted-iot-our-approach/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusted-iot---our-approach/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/trusted-iot-our-approach/</guid>
       <description>For the Open IoT Challenge 4.0 we propose a “trusted indoor positioning system for nursing homes” but, first of all, it is necessary to ask ourselves, do we know what is this?</description>
     </item>
     
     <item>
       <title>Cloud Oscilloscope - Update 1</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---update-1/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-update-1/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope---update-1/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/cloud-oscilloscope-update-1/</guid>
       <description>Recently we&amp;rsquo;ve improved qt program on orange pi, now we can handle and show correct signal on display.</description>
     </item>
     
     <item>
       <title>Solar Logger - smaDataLogger Github</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger---smadatalogger-github/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger-smadatalogger-github/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger---smadatalogger-github/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger-smadatalogger-github/</guid>
       <description>View the Solar Logger GitHub.</description>
     </item>
     
     <item>
       <title>Solar Logger - Overview</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger---overview/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger-overview/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger---overview/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/solar-logger-overview/</guid>
       <description>This Graphic gives an technical Overview to the Solar Data Logger Project.</description>
     </item>
     
@@ -1592,37 +1592,37 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>little brother - Pharo Smalltalk Resource Usage</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---pharo-smalltalk-resource-usage/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-pharo-smalltalk-resource-usage/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---pharo-smalltalk-resource-usage/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-pharo-smalltalk-resource-usage/</guid>
       <description>One of the reasons for using Pharo, aside from the ease of controlling the hardware via object representations down to the pin level, is the relatively low resource usage compared with other IoT environments.</description>
     </item>
     
     <item>
       <title>little brother - Analysis Tools</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---analysis-tools/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-analysis-tools/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---analysis-tools/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-analysis-tools/</guid>
       <description>To understand how the query, analysis and visualization tools work, a short overview of the Pharo Smalltalk environment in which they run is necessary.</description>
     </item>
     
     <item>
       <title>little brother - Base Features</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---base-features/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-base-features/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---base-features/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-base-features/</guid>
       <description>What are the base features of “little brother”.</description>
     </item>
     
     <item>
       <title>little brother - Difficulties</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---difficulties/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-difficulties/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother---difficulties/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/little-brother-difficulties/</guid>
       <description>Here are some of the main difficulties in completing the “little brother” infrastructure analysis IoT Initiative.</description>
     </item>
     
@@ -1691,10 +1691,10 @@ With over 30 years of SCADA and Telemetry experience and the co-inventor of MQTT
     
     <item>
       <title>Smart solar water heating (SWH) - Intro</title>
-      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---intro/</link>
+      <link>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-intro/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh---intro/</guid>
+      <guid>https://iot.eclipse.org/open-iot-challenge/entries/smart-solar-water-heating-swh-intro/</guid>
       <description>Smart solar water heating solution to take part in the Open IoT Challenge 4.0!</description>
     </item>
     

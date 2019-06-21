@@ -15,10 +15,10 @@
     
     <item>
       <title>The MRAA and UPM Eclipse IoT Projects | Eclipse IoT Day Santa Clara 2019</title>
-      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</link>
+      <link>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects--eclipse-iot-day-santa-clara/</guid>
+      <guid>https://iot.eclipse.org/resources/2019-05-21-mraa-upa-eclipse-iot-projects-eclipse-iot-day-santa-clara/</guid>
       <description>This presentation focuses primarily on the MRAA and UPM middleware projects which have been a part of the Intel IoT Developer Kits since day 1 and are now proudly joining the Eclipse IoT community. The MRAA library provides an abstraction layer for several Intel and non-Intel IoT platforms, offering C/C++, Java, JavaScript, and Python bindings to the physical pins and buses. This is subsequently used by the UPM sensor library for exposing standardized APIs intended to simplify the interaction between developers and peripherals, with virtually over 400 different specialized sensors, actuators and radio modules currently supported as part of the project.</description>
     </item>
     
