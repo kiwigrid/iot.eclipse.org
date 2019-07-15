@@ -70,15 +70,6 @@ Intelligence - Provides an Edge Compute Platform enabling any hardware to run an
     </item>
     
     <item>
-      <title>BREDEX GmbH</title>
-      <link>https://iot.eclipse.org/member/bredex/</link>
-      <pubDate>Thu, 28 Jun 2018 15:31:15 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/bredex/</guid>
-      <description>BREDEX has been developing individual software solutions for companies from a wide variety of industries since 1987. As a regionally rooted but globally operating company, we not only inspire our customers with our solution-oriented and agile approach, but above all with our broad-based expertise. We see our customers as partners, which helps us to understand and fulfill their needs and requirements. Our Training offer includes &amp;lsquo;the advanced training for Certified Professional for IoT (CPIoT)&amp;rsquo; which prepares for all technical and organizational tasks that may become relevant in IoT projects.</description>
-    </item>
-    
-    <item>
       <title>Cirrus Link</title>
       <link>https://iot.eclipse.org/member/cirruslink/</link>
       <pubDate>Tue, 29 May 2018 15:31:15 -0700</pubDate>
@@ -201,15 +192,6 @@ We connect people, teams and companies. Our mission: Energizing great minds. Ins
     </item>
     
     <item>
-      <title>Kichwa Coders</title>
-      <link>https://iot.eclipse.org/member/kichwa-coders/</link>
-      <pubDate>Thu, 20 Apr 2017 15:31:21 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/kichwa-coders/</guid>
-      <description>At Kichwa Coders we build cutting-edge developer tools for the Internet of Things. We have experience at every level of the IoT stack from cloud to low-level embedded devices. Our clients rate us highly for our focus on excellence in software development, and for our versatility and dynamism.</description>
-    </item>
-    
-    <item>
       <title>CEA List</title>
       <link>https://iot.eclipse.org/member/cealist/</link>
       <pubDate>Thu, 15 Dec 2016 15:31:21 -0700</pubDate>
@@ -316,17 +298,6 @@ As members of the Eclipse community we are bringing Zulu and Zulu Embedded – o
       <guid>https://iot.eclipse.org/member/sierra/</guid>
       <description>Sierra Wireless is the global leader in machine-to-machine (M2M) devices and cloud services, delivering intelligent wireless solutions that simplify the connected world. We offer the industry&amp;rsquo;s most comprehensive portfolio of 2G, 3G and 4G embedded modules and gateways, seamlessly integrated with our secure M2M cloud services.
 Sierra Wireless is deeply involved in the Eclipse IoT community: we founded the IoT Working Group, and are contributing to several projects including Wakaama, Californium, LDT,… The Eclipse IoT technologies are also used in our AirVantage M2M Cloud.</description>
-    </item>
-    
-    <item>
-      <title>openHAB Foundation</title>
-      <link>https://iot.eclipse.org/member/openhab/</link>
-      <pubDate>Sun, 08 Mar 2015 15:31:21 -0700</pubDate>
-      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      <guid>https://iot.eclipse.org/member/openhab/</guid>
-      <description>The openHAB Foundation e.V. is a non-profit organisation.
-Its purpose is to educate the public about the possibilities that Free software offers in the domain of smart homes.
-More and more new technologies and devices are introduced to our living, working and business environment. Although all of them are designed to make our lives easier, they have a common problem: The lack of interoperability, due to incompatible technology stacks and conflicting commercial interests.</description>
     </item>
     
     <item>
