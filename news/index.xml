@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 16:28:26 -0700</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From building blocks to IoT solutions</title>
+      <link>https://iot.eclipse.org/news/2019-09-10-from-building-blocks-to-iot-solutions/</link>
+      <pubDate>Tue, 10 Sep 2019 16:28:26 -0700</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-09-10-from-building-blocks-to-iot-solutions/</guid>
+      <description>The Eclipse IoT ecosystem consists of around 40 different projects, ranging from embedded devices, to IoT gateways and up to cloud scale solutions. Many of those projects stand alone as “building blocks”, rather than ready to run solutions.</description>
+    </item>
     
     <item>
       <title>Registration is now open for EclipseCon Europe 2019!</title>
