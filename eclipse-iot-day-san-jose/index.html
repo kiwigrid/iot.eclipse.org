@@ -10,6 +10,7 @@
 <title>Eclipse IoT Day San Jose - March 20, 2017 | IoT development made simple - iot.eclipse.org</title>
 <meta property="og:title" content="Eclipse IoT Day San Jose - March 20, 2017 | IoT development made simple - iot.eclipse.org" />
 <meta name="twitter:title" content="Eclipse IoT Day San Jose - March 20, 2017 | IoT development made simple - iot.eclipse.org" />
+
 <meta name="description" content="Eclipse IoT Day will take place on March 20, 2017 in San Jose California! Join us for an event packed with great speakers covering a wide range of IoT topics.">
 <meta property="og:description" content="Eclipse IoT Day will take place on March 20, 2017 in San Jose California! Join us for an event packed with great speakers covering a wide range of IoT topics.">
 <meta name="twitter:description" content="Eclipse IoT Day will take place on March 20, 2017 in San Jose California! Join us for an event packed with great speakers covering a wide range of IoT topics.">
@@ -28,7 +29,9 @@
 
 <meta name="generator" content="Hugo 0.54.0" />
 <link rel="canonical" href="https://iot.eclipse.org/eclipse-iot-day-san-jose/" />
-<link rel="alternate" href="https://iot.eclipse.org/eclipse-iot-day-san-jose/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
+<link rel="alternate" href="/eclipse-iot-day-san-jose/index.xml" type="application/rss+xml" title="">
+
 
   
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -37,6 +40,11 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
   
+<script>
+	
+		var tableClasses = "table";
+	
+</script>
   
 
 <link rel="apple-touch-icon" href="images/iotday32.png">
@@ -83,6 +91,9 @@
 <div></div>
 
   
+  
+  
+
   
 
 <div class="spinner-wrapper">
@@ -920,6 +931,85 @@
   
 </section>
 
+
+  
+
+  
+  <div class="featured-footer featured-alternate" id="featured-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-24">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    var rawStoryJSON = "null";
+    var sort =  null ;
+    var json = JSON.parse(rawStoryJSON);
+    
+    json = json.filter(a => new Date(a['endDate']) > new Date())
+      .filter(a => a['type'] === "both" || a['type'] === "footer" );
+    
+    
+    if (json.length > 1) {
+      shuffleArray(json);
+    }
+    
+    
+    if (json.length > 0) {
+      var item = json[0];
+      var storyEl = document.querySelector("#featured-footer");
+      
+      if (item['bgImgSrc'] !== undefined && item['bgImgSrc'] !== "") {
+        storyEl.style.backgroundImage = 'url(\'' + item['bgImgSrc'] + '\')';
+        storyEl.style.backgroundSize = 'cover';
+      }
+  
+      
+      if (item['footer_classes'] !== undefined && item['footer_classes'] !== "") {
+        storyEl.className = item['footer_classes'];
+      }
+      
+      
+      var headingEl = document.createElement('h2');
+      headingEl.innerHTML =  item['title'];
+      
+      var linkEl = document.createElement('span');
+      linkEl.innerHTML =  item['link'];
+  
+      
+      var preambleEl, contentEl = null;
+      if (item['preamble'] != undefined && item['premble'] != "") {
+        preambleEl = document.createElement('p');
+        preambleEl.innerHTML =  item['preamble'];
+      }
+      if (item['content'] != undefined && item['content'] != "") {
+        contentEl = document.createElement('p');
+        contentEl.innerHTML =  item['content'];
+      }
+      
+      var divEl = storyEl.querySelector(".row > div");
+      if (preambleEl != undefined) {
+        divEl.appendChild(preambleEl);
+      }
+      divEl.appendChild(headingEl);
+      if (contentEl != undefined) {
+        divEl.appendChild(contentEl);
+      }
+      divEl.appendChild(linkEl);
+    }
+    
+
+    function shuffleArray(array) {
+        for (var i = array.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+  </script>
 
   
   

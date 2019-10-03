@@ -10,6 +10,7 @@
 <title>Eclipse IoT Adopters | IoT development made simple - iot.eclipse.org</title>
 <meta property="og:title" content="Eclipse IoT Adopters | IoT development made simple - iot.eclipse.org" />
 <meta name="twitter:title" content="Eclipse IoT Adopters | IoT development made simple - iot.eclipse.org" />
+
 <meta name="description" content="Eclipse IoT’s community of adopters is growing! Innovative organizations of all sizes and across industry sectors are committed to accelerating the adoption of commercial-grade, production-ready open source technologies developed by the Eclipse IoT community.">
 <meta property="og:description" content="Eclipse IoT’s community of adopters is growing! Innovative organizations of all sizes and across industry sectors are committed to accelerating the adoption of commercial-grade, production-ready open source technologies developed by the Eclipse IoT community.">
 <meta name="twitter:description" content="Eclipse IoT’s community of adopters is growing! Innovative organizations of all sizes and across industry sectors are committed to accelerating the adoption of commercial-grade, production-ready open …">
@@ -28,7 +29,9 @@
 
 <meta name="generator" content="Hugo 0.54.0" />
 <link rel="canonical" href="https://iot.eclipse.org/adopters/" />
-<link rel="alternate" href="https://iot.eclipse.org/adopters/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
+<link rel="alternate" href="/adopters/index.xml" type="application/rss+xml" title="">
+
 
 <link rel="stylesheet" href="https://iot.eclipse.org/assets/css/bootstrap.css">
   
@@ -38,6 +41,11 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
   
+<script>
+	
+		var tableClasses = "table";
+	
+</script>
   
 
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -121,6 +129,9 @@
         <li>
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
           <ul class="dropdown-menu" role="menu">
+           <li>
+              <a href="/adopters">Adopters</a>
+            </li>
             <li>
               <a href="/news">News</a>
             </li>
@@ -162,6 +173,9 @@
 
   
   
+  
+
+  
 <main class="main adopter-page">
   <div class="well">
     <div class="container">
@@ -180,18 +194,19 @@
 
 <p>Do you use Eclipse IoT technologies? Show your support for open source by adding your logo to this page. Please open a <a href="https://github.com/eclipsefdn/iot.eclipse.org#project-adopters">pull request</a> to add your logo below.</p>
 
-<p>Last Updated: 2019-09-30 13:40:00</p>
-
 
 
 
   <div class="col-md-24">
-    <h3>Eclipse Ditto</h3>
+    <h2 style="border-bottom:1px solid #999; padding-bottom:5px;margin-bottom:0px;">
+      Eclipse Ditto 
+      <span class="badge"><a href="https://projects.eclipse.org/projects/iot.ditto" style="color:#fff;">iot.ditto</a></span>
+    </h2>
     <ul class="list-inline">
       
-        <li><img src="https://iot.eclipse.org/assets/images/members/logo-bosch.png" alt="Bosch Software Innovations" style="padding:5px; max-width:200px;"/></li>
+        <li><a href="https://www.bosch-iot-suite.com/service/things/" target="_blank"><img src="/assets/images/adopters/logo-bosch.png" alt="Bosch Software Innovations" style="padding:15px; width:250px;"/></a></li>
       
-        <li><img src="https://iot.eclipse.org/assets/images/adopters/logo-aloxy.svg" alt="Aloxy" style="padding:5px; max-width:200px;"/></li>
+        <li><a href="http://www.aloxy.io/" target="_blank"><img src="/assets/images/adopters/logo-aloxy.svg" alt="Aloxy" style="padding:15px; width:250px;"/></a></li>
       
     </ul>
   </div>
@@ -200,6 +215,85 @@
     </div>
   </section>
 </main>
+
+  
+
+  
+  <div class="featured-footer featured-alternate" id="featured-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-24">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    var rawStoryJSON = "null";
+    var sort =  null ;
+    var json = JSON.parse(rawStoryJSON);
+    
+    json = json.filter(a => new Date(a['endDate']) > new Date())
+      .filter(a => a['type'] === "both" || a['type'] === "footer" );
+    
+    
+    if (json.length > 1) {
+      shuffleArray(json);
+    }
+    
+    
+    if (json.length > 0) {
+      var item = json[0];
+      var storyEl = document.querySelector("#featured-footer");
+      
+      if (item['bgImgSrc'] !== undefined && item['bgImgSrc'] !== "") {
+        storyEl.style.backgroundImage = 'url(\'' + item['bgImgSrc'] + '\')';
+        storyEl.style.backgroundSize = 'cover';
+      }
+  
+      
+      if (item['footer_classes'] !== undefined && item['footer_classes'] !== "") {
+        storyEl.className = item['footer_classes'];
+      }
+      
+      
+      var headingEl = document.createElement('h2');
+      headingEl.innerHTML =  item['title'];
+      
+      var linkEl = document.createElement('span');
+      linkEl.innerHTML =  item['link'];
+  
+      
+      var preambleEl, contentEl = null;
+      if (item['preamble'] != undefined && item['premble'] != "") {
+        preambleEl = document.createElement('p');
+        preambleEl.innerHTML =  item['preamble'];
+      }
+      if (item['content'] != undefined && item['content'] != "") {
+        contentEl = document.createElement('p');
+        contentEl.innerHTML =  item['content'];
+      }
+      
+      var divEl = storyEl.querySelector(".row > div");
+      if (preambleEl != undefined) {
+        divEl.appendChild(preambleEl);
+      }
+      divEl.appendChild(headingEl);
+      if (contentEl != undefined) {
+        divEl.appendChild(contentEl);
+      }
+      divEl.appendChild(linkEl);
+    }
+    
+
+    function shuffleArray(array) {
+        for (var i = array.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+  </script>
 
   
   

@@ -10,6 +10,7 @@
 <title>Asset Tracking | IoT development made simple - iot.eclipse.org</title>
 <meta property="og:title" content="Asset Tracking | IoT development made simple - iot.eclipse.org" />
 <meta name="twitter:title" content="Asset Tracking | IoT development made simple - iot.eclipse.org" />
+
 <meta name="description" content="&lt;p&gt;The &lt;strong&gt;Asset Tracking Management&lt;/strong&gt; testbed demonstrates how assets with various sensors can be tracked in real-time in order to minimize the cost of lost or damaged parcels.&lt;/p&gt;
 ">
 <meta property="og:description" content="&lt;p&gt;The &lt;strong&gt;Asset Tracking Management&lt;/strong&gt; testbed demonstrates how assets with various sensors can be tracked in real-time in order to minimize the cost of lost or damaged parcels.&lt;/p&gt;
@@ -31,7 +32,7 @@
 
 <meta name="generator" content="Hugo 0.54.0" />
 <link rel="canonical" href="https://iot.eclipse.org/testbeds/asset-tracking/" />
-<link rel="alternate" href="https://iot.eclipse.org/index.xml" type="application/rss+xml" title="Eclipse IoT">
+
 
 <link rel="stylesheet" href="https://iot.eclipse.org/assets/css/bootstrap.css">
   
@@ -41,6 +42,11 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
   
+<script>
+	
+		var tableClasses = "table";
+	
+</script>
   
 
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -124,6 +130,9 @@
         <li>
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community</a>
           <ul class="dropdown-menu" role="menu">
+           <li>
+              <a href="/adopters">Adopters</a>
+            </li>
             <li>
               <a href="/news">News</a>
             </li>
@@ -164,6 +173,9 @@
 </header>
 
   
+  
+  
+
   
 <main class="main testbeds-single-page">
   <div class="well" style="background-image: url(/assets/images/testbeds/asset-tracking-banner.jpg); background-blend-mode: soft-light; background-size: cover;">
@@ -363,6 +375,85 @@
     </div>
   </section>
 </main>
+
+  
+
+  
+  <div class="featured-footer featured-alternate" id="featured-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-24">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    var rawStoryJSON = "null";
+    var sort =  null ;
+    var json = JSON.parse(rawStoryJSON);
+    
+    json = json.filter(a => new Date(a['endDate']) > new Date())
+      .filter(a => a['type'] === "both" || a['type'] === "footer" );
+    
+    
+    if (json.length > 1) {
+      shuffleArray(json);
+    }
+    
+    
+    if (json.length > 0) {
+      var item = json[0];
+      var storyEl = document.querySelector("#featured-footer");
+      
+      if (item['bgImgSrc'] !== undefined && item['bgImgSrc'] !== "") {
+        storyEl.style.backgroundImage = 'url(\'' + item['bgImgSrc'] + '\')';
+        storyEl.style.backgroundSize = 'cover';
+      }
+  
+      
+      if (item['footer_classes'] !== undefined && item['footer_classes'] !== "") {
+        storyEl.className = item['footer_classes'];
+      }
+      
+      
+      var headingEl = document.createElement('h2');
+      headingEl.innerHTML =  item['title'];
+      
+      var linkEl = document.createElement('span');
+      linkEl.innerHTML =  item['link'];
+  
+      
+      var preambleEl, contentEl = null;
+      if (item['preamble'] != undefined && item['premble'] != "") {
+        preambleEl = document.createElement('p');
+        preambleEl.innerHTML =  item['preamble'];
+      }
+      if (item['content'] != undefined && item['content'] != "") {
+        contentEl = document.createElement('p');
+        contentEl.innerHTML =  item['content'];
+      }
+      
+      var divEl = storyEl.querySelector(".row > div");
+      if (preambleEl != undefined) {
+        divEl.appendChild(preambleEl);
+      }
+      divEl.appendChild(headingEl);
+      if (contentEl != undefined) {
+        divEl.appendChild(contentEl);
+      }
+      divEl.appendChild(linkEl);
+    }
+    
+
+    function shuffleArray(array) {
+        for (var i = array.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+  </script>
 
   
   
