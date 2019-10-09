@@ -1,4 +1,4 @@
-var json_adopters = '{"adopters":{"projects":[{"name":"Eclipse Ditto","id":"iot.ditto","adopters":[{"name":"Bosch Software Innovations","homepage_url":"https://www.bosch-iot-suite.com/service/things/","logo":"logo-bosch.png","logo_white":"logo-bosch-white.svg"},{"name":"Aloxy","homepage_url":"http://www.aloxy.io/","logo":"logo-aloxy.svg","logo_white":"logo-aloxy-white.svg"}]}]}}';
+var json_adopters = '{"adopters":{"projects":[{"name":"Eclipse Ditto","id":"iot.ditto","adopters":[{"name":"Bosch Software Innovations","homepage_url":"https://www.bosch-iot-suite.com/service/things/","logo":"logo-bosch.png","logo_white":"logo-bosch-white.svg"},{"name":"Aloxy","homepage_url":"http://www.aloxy.io/","logo":"logo-aloxy.svg","logo_white":"logo-aloxy-white.svg"}]},{"name":"Eclipse Paho","id":"iot.paho","adopters":[{"name":"Microsoft","homepage_url":"https://microsoft.com/iot","logo":"logo-microsoft.svg","logo_white":"logo-microsoft-white.svg"}]}]}}';
 /*!
  * Copyright (c) 2019 Eclipse Foundation, Inc.
  * 
