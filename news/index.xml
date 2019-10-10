@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Tue, 10 Sep 2019 16:28:26 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 16:28:26 -0700</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Participate in the 2019 IoT Commercial Adoption Survey!</title>
+      <link>https://iot.eclipse.org/news/2019-10-10-participate-2019-iot-commercial-adoption-survey/</link>
+      <pubDate>Thu, 10 Oct 2019 16:28:26 -0700</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-10-10-participate-2019-iot-commercial-adoption-survey/</guid>
+      <description>According to McKinsey, the Internet of Things (IoT) will have a total potential economic impact of up to $11.1 trillion a year by 2025.</description>
+    </item>
     
     <item>
       <title>From building blocks to IoT solutions</title>
