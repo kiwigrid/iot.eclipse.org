@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 12:31:21 -0700</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aloxy</title>
+      <link>https://iot.eclipse.org/member/aloxy/</link>
+      <pubDate>Mon, 14 Oct 2019 12:31:21 -0700</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/member/aloxy/</guid>
+      <description>Aloxy offers a modular industrial Internet of Things platform for the process and chemical industry. Our goal is to improve safety and efficiency, to automate processes and to deliver actionable insights into industrial operations. Aloxys initial product-line offers a solution for manual valve position indication and maintenance progress monitoring. A core part of the solution is the Ex-certified Aloxy Pulse. The Aloxy Pulse is a multi-purpose industrial Internet-of-Things sensor. It can be programmed or configured to capture signals from one of its embedded sensors (vibration, motion, temperature, etc.</description>
+    </item>
     
     <item>
       <title>Linux Foundation</title>
