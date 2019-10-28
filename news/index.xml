@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Thu, 10 Oct 2019 16:28:26 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iot.eclipse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join us at Edge Computing World!</title>
+      <link>https://iot.eclipse.org/news/2019-10-21-edge-computing-world/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      <guid>https://iot.eclipse.org/news/2019-10-21-edge-computing-world/</guid>
+      <description>Edge Computing World is a brand new conference which will run December 9-12 2019 at the Computing History Museum in Silicon Valley. Edge Computing is a strategic focus area for the Eclipse Foundation, and we are proud to support this exciting new event.
+The Eclipse Foundation already hosts two innovative projects that have been built from the ground up to address the challenges of edge computing: Eclipse fog05 and Eclipse ioFog.</description>
+    </item>
     
     <item>
       <title>Participate in the 2019 IoT Commercial Adoption Survey!</title>
